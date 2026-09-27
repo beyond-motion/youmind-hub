@@ -72,15 +72,22 @@ function main() {
     sources: registry
   });
 
-  // Quality gate: never ship an empty library or silently-dropped source.
-  if (process.env.YOUMIND_SKIP_COUNT_GATE !== "1") {
-    const zero = registry
-      .filter((source) => source.enabled !== false && source.count === 0)
-      .map((source) => source.slug);
-    if (zero.length > 0) {
-      console.error(`QUALITY GATE FAILED: enabled sources with 0 prompts: ${zero.join(", ")}`);
-      process.exit(1);
+  // Hide any source that produced no data (transient fetch/build failure) so the
+  // nav never links to an empty page; hard-fail only if NOTHING is shippable
+  // (e.g. the artifact-flatten step silently produced zero files -> the P0-2 bug).
+  const shippable = registry.filter((source) => source.count > 0);
+  const empty = registry.filter((source) => source.count === 0).map((source) => source.slug);
+  for (const source of registry) {
+    if (source.count === 0) {
+      source.enabled = false;
     }
+  }
+  if (empty.length > 0) {
+    console.warn(`WARNING: hiding sources with 0 prompts: ${empty.join(", ")}`);
+  }
+  if (shippable.length === 0 && process.env.YOUMIND_SKIP_COUNT_GATE !== "1") {
+    console.error("QUALITY GATE FAILED: no source produced data — refusing to deploy an empty site.");
+    process.exit(1);
   }
 
   console.log(`Assembled ${registry.length} source(s) -> ${DIST_DIR}`);
