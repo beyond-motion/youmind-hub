@@ -31,11 +31,14 @@ function main() {
   const siteMeta = rootRegistry.site || {};
   const dataOrigin = siteMeta.dataOrigin || "";
   const canonical = (siteMeta.canonical || "https://youmind.beyondmotion.net").replace(/\/+$/, "");
+  const buildId = process.env.BUILD_ID || process.env.GITHUB_SHA || String(Date.now());
   const galleryTemplate = fs.readFileSync(path.join(SITE_SRC, "gallery.html"), "utf8");
 
   const landingSrc = path.join(SITE_SRC, "index.html");
   if (fs.existsSync(landingSrc)) {
-    const landingHtml = fs.readFileSync(landingSrc, "utf8").replaceAll("__CANONICAL__", canonical);
+    const landingHtml = fs.readFileSync(landingSrc, "utf8")
+      .replaceAll("__CANONICAL__", canonical)
+      .replaceAll("__BUILD_ID__", buildId);
     fs.writeFileSync(path.join(DIST_DIR, "index.html"), landingHtml);
   }
 
@@ -66,6 +69,7 @@ function main() {
       .replaceAll("__SLUG__", slug)
       .replaceAll("__DATA_ORIGIN__", dataOrigin)
       .replaceAll("__CANONICAL__", canonical)
+      .replaceAll("__BUILD_ID__", buildId)
       .replaceAll("__TITLE__", title)
       .replaceAll("__EYEBROW__", branding.eyebrow || `${title} Prompt Index`)
       .replaceAll("__HEADLINE__", branding.headline || `独立整理的 ${title} 提示词检索库`)
