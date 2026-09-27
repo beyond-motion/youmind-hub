@@ -28,7 +28,7 @@ dist/                 # 构建产物(gitignore)
 ```bash
 npm run fetch                # 抓取所有启用源 → data/<slug>/prompts.zh-CN.json
 npm run build:site           # 聚合所有源 → dist/(落地页 + /<slug>/ + data/)
-npm run serve                # 本地预览 http://localhost:8080
+PORT=xxxx npm run serve     # 本地预览,默认 http://localhost:8817(端口冲突时用 PORT 覆盖,如 PORT=9001)
 YOUMIND_SOURCE=seedance-2-5 node scripts/fetch-prompts.mjs   # 只抓一个
 ```
 

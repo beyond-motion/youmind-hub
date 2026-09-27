@@ -6,7 +6,7 @@
     "fetch": "node scripts/fetch.mjs --all",
     "fetch:source": "node scripts/fetch.mjs --source",
     "build:site": "node scripts/build-site.mjs",
-    "serve": "python3 -m http.server 8080 -d dist",
+    "serve": "python3 -m http.server ${PORT:-8817} -d dist",
     "sync:feishu": "node scripts/sync-feishu-api.mjs"
   },
   "dependencies": {
