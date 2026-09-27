@@ -1851,37 +1851,54 @@ function bindEvents() {
 }
 
 async function loadData() {
-  const ym = window.__YM__ || {};
-  const slug = ym.slug;
-  const dataBase = (ym.dataOrigin || "").replace(/\/+$/, "");
-  const response = await fetch(`${dataBase}/data/${slug}.json`);
-
-  if (!response.ok) {
-    throw new Error(`Failed to load prompt data: ${response.status}`);
-  }
-
-  const payload = await response.json();
-  const prompts = payload.prompts.slice().sort((left, right) => {
-    if (left.featured !== right.featured) {
-      return left.featured ? -1 : 1;
+  const log = (...a) => {
+    try {
+      console.log("[HUB]", ...a);
+    } catch (e) {}
+  };
+  try {
+    const ym = window.__YM__ || {};
+    const slug = ym.slug;
+    const dataBase = (ym.dataOrigin || "").replace(/\/+$/, "");
+    log("start", { slug, dataBase });
+    const response = await fetch(`${dataBase}/data/${slug}.json`);
+    log("fetched", response.status, response.headers.get("content-type"));
+    if (!response.ok) {
+      throw new Error(`Failed to load prompt data: ${response.status}`);
     }
+    const payload = await response.json();
+    log("parsed", payload.total, payload.prompts && payload.prompts.length);
+    const prompts = payload.prompts.slice().sort((left, right) => {
+      if (left.featured !== right.featured) {
+        return left.featured ? -1 : 1;
+      }
 
-    return new Date(right.sourcePublishedAt).getTime() - new Date(left.sourcePublishedAt).getTime();
-  });
+      return new Date(right.sourcePublishedAt).getTime() - new Date(left.sourcePublishedAt).getTime();
+    });
 
-  state.prompts = prompts;
-  state.filtered = prompts;
-  populateFilters(prompts);
-  updateBuilderOutput();
+    state.prompts = prompts;
+    state.filtered = prompts;
+    log("populateFilters:start", prompts.length);
+    populateFilters(prompts);
+    log("populateFilters:done");
+    updateBuilderOutput();
+    log("updateBuilderOutput:done");
 
-  elements.total.textContent = String(payload.total);
-  elements.featured.textContent = String(prompts.filter((item) => item.featured).length);
-  elements.sync.textContent = formatDate(payload.generatedAt);
-  elements.source.textContent = payload.dataSourceLabel || payload.dataSource || "Unknown";
+    elements.total.textContent = String(payload.total);
+    elements.featured.textContent = String(prompts.filter((item) => item.featured).length);
+    elements.sync.textContent = formatDate(payload.generatedAt);
+    elements.source.textContent = payload.dataSourceLabel || payload.dataSource || "Unknown";
 
-  applyFilters();
+    log("applyFilters:start");
+    applyFilters();
+    log("applyFilters:done");
+  } catch (error) {
+    console.error("[HUB] loadData FAILED", (error && error.stack) || error);
+    throw error;
+  }
 }
 
+console.log("[HUB] module init");
 bindEvents();
 loadData().catch((error) => {
   elements.resultsCount.textContent = "数据加载失败";
