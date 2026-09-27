@@ -66,15 +66,10 @@ function main() {
 
   registry.sort((left, right) => left.order - right.order);
 
-  writeJsonSync(path.join(DIST_DIR, "registry.json"), {
-    generatedAt: new Date().toISOString(),
-    site: siteMeta,
-    sources: registry
-  });
-
   // Hide any source that produced no data (transient fetch/build failure) so the
   // nav never links to an empty page; hard-fail only if NOTHING is shippable
   // (e.g. the artifact-flatten step silently produced zero files -> the P0-2 bug).
+  // NOTE: must run BEFORE writing registry.json so the hidden state persists.
   const shippable = registry.filter((source) => source.count > 0);
   const empty = registry.filter((source) => source.count === 0).map((source) => source.slug);
   for (const source of registry) {
@@ -89,6 +84,12 @@ function main() {
     console.error("QUALITY GATE FAILED: no source produced data — refusing to deploy an empty site.");
     process.exit(1);
   }
+
+  writeJsonSync(path.join(DIST_DIR, "registry.json"), {
+    generatedAt: new Date().toISOString(),
+    site: siteMeta,
+    sources: registry
+  });
 
   console.log(`Assembled ${registry.length} source(s) -> ${DIST_DIR}`);
 }
