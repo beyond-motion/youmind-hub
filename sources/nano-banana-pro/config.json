@@ -1,5 +1,31 @@
-{ "slug":"nano-banana-pro","title":"Nano Banana Pro","enabled":true,"order":3,"kind":"image",
-  "api":{"model":"nano-banana-pro","endpoint":"prompts","gallerySlug":"nano-banana-pro-prompts","locale":"zh-CN"},
-  "feishu":{"baseToken":"","tableId":""},
-  "r2":{"enabled":false,"keyPrefix":"nano-banana-pro/videos"},
-  "branding":{"eyebrow":"Nano Banana Pro Prompt Index","headline":"独立整理的 Nano Banana Pro 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-nano-banana-pro-prompts","builderTemplates":["standard","minimal"]} }
+{
+  "slug": "nano-banana-pro",
+  "title": "Nano Banana Pro",
+  "enabled": true,
+  "order": 3,
+  "kind": "image",
+  "api": {
+    "model": "nano-banana-pro",
+    "endpoint": "prompts",
+    "gallerySlug": "nano-banana-pro-prompts",
+    "locale": "zh-CN"
+  },
+  "feishu": {
+    "baseToken": "",
+    "tableId": ""
+  },
+  "r2": {
+    "enabled": false,
+    "keyPrefix": "nano-banana-pro/videos"
+  },
+  "branding": {
+    "eyebrow": "Nano Banana Pro Prompt Index",
+    "headline": "独立整理的 Nano Banana Pro 提示词检索库",
+    "sourceRepo": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "builderTemplates": [
+      "standard",
+      "minimal"
+    ]
+  },
+  "category": "image"
+}

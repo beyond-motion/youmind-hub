@@ -1,5 +1,31 @@
-{ "slug":"seedream-4-5","title":"Seedream 4.5","enabled":true,"order":7,"kind":"image",
-  "api":{"model":"seedream-4.5","endpoint":"prompts","gallerySlug":"seedream-4-5-prompts","locale":"zh-CN"},
-  "feishu":{"baseToken":"","tableId":""},
-  "r2":{"enabled":false,"keyPrefix":"seedream-4-5/videos"},
-  "branding":{"eyebrow":"Seedream 4.5 Prompt Index","headline":"独立整理的 Seedream 4.5 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-seedream-4.5","builderTemplates":["standard","minimal"]} }
+{
+  "slug": "seedream-4-5",
+  "title": "Seedream 4.5",
+  "enabled": true,
+  "order": 7,
+  "kind": "image",
+  "api": {
+    "model": "seedream-4.5",
+    "endpoint": "prompts",
+    "gallerySlug": "seedream-4-5-prompts",
+    "locale": "zh-CN"
+  },
+  "feishu": {
+    "baseToken": "",
+    "tableId": ""
+  },
+  "r2": {
+    "enabled": false,
+    "keyPrefix": "seedream-4-5/videos"
+  },
+  "branding": {
+    "eyebrow": "Seedream 4.5 Prompt Index",
+    "headline": "独立整理的 Seedream 4.5 提示词检索库",
+    "sourceRepo": "YouMind-OpenLab/awesome-seedream-4.5",
+    "builderTemplates": [
+      "standard",
+      "minimal"
+    ]
+  },
+  "category": "image"
+}

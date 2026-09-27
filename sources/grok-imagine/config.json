@@ -1,5 +1,32 @@
-{ "slug":"grok-imagine","title":"Grok Imagine","enabled":true,"order":4,"kind":"video",
-  "api":{"model":"grok-imagine","endpoint":"video-prompts","gallerySlug":"grok-imagine-prompts","locale":"zh-CN"},
-  "feishu":{"baseToken":"","tableId":""},
-  "r2":{"enabled":false,"keyPrefix":"grok-imagine/videos"},
-  "branding":{"eyebrow":"Grok Imagine Prompt Index","headline":"独立整理的 Grok Imagine 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-grok-imagine-prompts","builderTemplates":["standard","minimal","image"]} }
+{
+  "slug": "grok-imagine",
+  "title": "Grok Imagine",
+  "enabled": true,
+  "order": 4,
+  "kind": "video",
+  "api": {
+    "model": "grok-imagine",
+    "endpoint": "video-prompts",
+    "gallerySlug": "grok-imagine-prompts",
+    "locale": "zh-CN"
+  },
+  "feishu": {
+    "baseToken": "",
+    "tableId": ""
+  },
+  "r2": {
+    "enabled": false,
+    "keyPrefix": "grok-imagine/videos"
+  },
+  "branding": {
+    "eyebrow": "Grok Imagine Prompt Index",
+    "headline": "独立整理的 Grok Imagine 提示词检索库",
+    "sourceRepo": "YouMind-OpenLab/awesome-grok-imagine-prompts",
+    "builderTemplates": [
+      "standard",
+      "minimal",
+      "image"
+    ]
+  },
+  "category": "video"
+}

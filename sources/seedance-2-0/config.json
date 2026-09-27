@@ -10,12 +10,25 @@
     "gallerySlug": "seedance-2-0-prompts",
     "locale": "zh-CN"
   },
-  "feishu": { "baseToken": "", "tableId": "" },
-  "r2": { "enabled": false, "keyPrefix": "seedance-2-0/videos" },
+  "feishu": {
+    "baseToken": "",
+    "tableId": ""
+  },
+  "r2": {
+    "enabled": false,
+    "keyPrefix": "seedance-2-0/videos"
+  },
   "branding": {
     "eyebrow": "Seedance 2.0 Prompt Index",
     "headline": "独立整理的 Seedance 2.0 提示词检索库",
     "sourceRepo": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "builderTemplates": ["storyboard", "standard", "minimal", "image", "audio"]
-  }
+    "builderTemplates": [
+      "storyboard",
+      "standard",
+      "minimal",
+      "image",
+      "audio"
+    ]
+  },
+  "category": "video"
 }

@@ -1,5 +1,31 @@
-{ "slug":"gpt-image-2","title":"GPT Image 2","enabled":true,"order":2,"kind":"image",
-  "api":{"model":"gpt-image-2","endpoint":"prompts","gallerySlug":"gpt-image-2-prompts","locale":"zh-CN"},
-  "feishu":{"baseToken":"","tableId":""},
-  "r2":{"enabled":false,"keyPrefix":"gpt-image-2/videos"},
-  "branding":{"eyebrow":"GPT Image 2 Prompt Index","headline":"独立整理的 GPT Image 2 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-gpt-image-2","builderTemplates":["standard","minimal"]} }
+{
+  "slug": "gpt-image-2",
+  "title": "GPT Image 2",
+  "enabled": true,
+  "order": 2,
+  "kind": "image",
+  "api": {
+    "model": "gpt-image-2",
+    "endpoint": "prompts",
+    "gallerySlug": "gpt-image-2-prompts",
+    "locale": "zh-CN"
+  },
+  "feishu": {
+    "baseToken": "",
+    "tableId": ""
+  },
+  "r2": {
+    "enabled": false,
+    "keyPrefix": "gpt-image-2/videos"
+  },
+  "branding": {
+    "eyebrow": "GPT Image 2 Prompt Index",
+    "headline": "独立整理的 GPT Image 2 提示词检索库",
+    "sourceRepo": "YouMind-OpenLab/awesome-gpt-image-2",
+    "builderTemplates": [
+      "standard",
+      "minimal"
+    ]
+  },
+  "category": "image"
+}

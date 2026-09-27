@@ -50,6 +50,7 @@ function main() {
     registry.push({
       slug,
       title,
+      category: config.category || config.kind || "image",
       kind: config.kind || "image",
       order: config.order ?? 999,
       enabled: config.enabled !== false,
