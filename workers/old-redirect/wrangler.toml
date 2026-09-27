@@ -1,0 +1,10 @@
+name = "youmind-old-redirect"
+main = "index.mjs"
+compatibility_date = "2026-01-01"
+
+# 301 the legacy per-model domains to the unified hub sub-paths.
+# Deploy:  npx wrangler deploy --config workers/old-redirect/wrangler.toml
+routes = [
+  { pattern = "seedance.beyondmotion.net/*", zone_name = "beyondmotion.net" },
+  { pattern = "gptimage.beyondmotion.net/*", zone_name = "beyondmotion.net" }
+]
