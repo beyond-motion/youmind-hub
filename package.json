@@ -1,0 +1,15 @@
+{
+  "name": "youmind-hub",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs --all",
+    "fetch:source": "node scripts/fetch.mjs --source",
+    "build:site": "node scripts/build-site.mjs",
+    "serve": "python3 -m http.server 4173 -d dist",
+    "sync:feishu": "node scripts/sync-feishu-api.mjs"
+  },
+  "dependencies": {
+    "undici": "^7.29.0"
+  }
+}

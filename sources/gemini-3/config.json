@@ -1,0 +1,5 @@
+{ "slug":"gemini-3","title":"Gemini 3","enabled":true,"order":8,"kind":"image",
+  "api":{"model":"gemini-3-pro","endpoint":"prompts","gallerySlug":"gemini-3-prompts","locale":"zh-CN"},
+  "feishu":{"baseToken":"","tableId":""},
+  "r2":{"enabled":false,"keyPrefix":"gemini-3/videos"},
+  "branding":{"eyebrow":"Gemini 3 Prompt Index","headline":"独立整理的 Gemini 3 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-gemini-3-prompts","builderTemplates":["standard","minimal"]} }

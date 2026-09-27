@@ -1,0 +1,5 @@
+{ "slug":"gpt-image-1-5","title":"GPT Image 1.5","enabled":true,"order":6,"kind":"image",
+  "api":{"model":"gpt-image-1.5","endpoint":"prompts","gallerySlug":"gpt-image-1-5-prompts","locale":"zh-CN"},
+  "feishu":{"baseToken":"","tableId":""},
+  "r2":{"enabled":false,"keyPrefix":"gpt-image-1-5/videos"},
+  "branding":{"eyebrow":"GPT Image 1.5 Prompt Index","headline":"独立整理的 GPT Image 1.5 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-gpt-image-1.5","builderTemplates":["standard","minimal"]} }

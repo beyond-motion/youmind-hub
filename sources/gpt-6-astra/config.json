@@ -1,0 +1,5 @@
+{ "slug":"gpt-6-astra","title":"GPT 6 Astra","enabled":true,"order":11,"kind":"image",
+  "api":{"model":"gpt-6-astra","endpoint":"prompts","gallerySlug":"gpt-6-astra-prompts","locale":"zh-CN"},
+  "feishu":{"baseToken":"","tableId":""},
+  "r2":{"enabled":false,"keyPrefix":"gpt-6-astra/videos"},
+  "branding":{"eyebrow":"GPT 6 Astra Prompt Index","headline":"独立整理的 GPT 6 Astra 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-gpt-6-astra-prompts","builderTemplates":["standard","minimal"]} }

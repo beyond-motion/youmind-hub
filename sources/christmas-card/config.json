@@ -1,0 +1,4 @@
+{ "slug":"christmas-card","title":"Christmas Card","enabled":true,"order":9,"kind":"static",
+  "api":{"model":"christmas-card","endpoint":"","gallerySlug":"christmas-card-prompts","locale":"zh-CN"},
+  "feishu":{"baseToken":"","tableId":""},
+  "branding":{"eyebrow":"Christmas Card Prompt Index","headline":"圣诞卡片提示词(README 解析,静态归档)","sourceRepo":"YouMind-OpenLab/awesome-christmas-card-prompts","builderTemplates":["minimal"]} }

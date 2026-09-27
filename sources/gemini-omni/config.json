@@ -1,0 +1,5 @@
+{ "slug":"gemini-omni","title":"Gemini Omni","enabled":true,"order":5,"kind":"video",
+  "api":{"model":"gemini-omni","endpoint":"video-prompts","gallerySlug":"gemini-omni-prompts","locale":"zh-CN"},
+  "feishu":{"baseToken":"","tableId":""},
+  "r2":{"enabled":false,"keyPrefix":"gemini-omni/videos"},
+  "branding":{"eyebrow":"Gemini Omni Prompt Index","headline":"独立整理的 Gemini Omni 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-gemini-omni","builderTemplates":["standard","minimal","image"]} }

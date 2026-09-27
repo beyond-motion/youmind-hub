@@ -1,0 +1,352 @@
+{
+  "tags": [
+    {
+      "key": "duration",
+      "label": "时长",
+      "pattern": "(?:\\b|\\D)(?:4|5|6|8|10|12|15)\\s*(?:秒|s|seconds?)",
+      "flags": "i"
+    },
+    {
+      "key": "duration_15s",
+      "label": "15 秒",
+      "pattern": "15\\s*(?:秒|s|seconds?)",
+      "flags": "i"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "画幅",
+      "pattern": "\\b(?:16:9|9:16|1:1|4:3|3:4)\\b|横屏|竖屏|portrait|landscape",
+      "flags": "i"
+    },
+    {
+      "key": "timecoded_segments",
+      "label": "时间分镜",
+      "pattern": "(?:\\[?\\s*(?:0{1,2}:)?0{1,2}\\s*[-–—~至到]\\s*(?:0{1,2}:)?\\d{1,2}|(?:^|[^\\d])\\d{1,2}\\s*[-–—~至到]\\s*\\d{1,2}\\s*秒)",
+      "flags": "i"
+    },
+    {
+      "key": "style",
+      "label": "风格",
+      "pattern": "风格|style|电影感|超写实|photorealistic|cinematic|anime|动漫|VHS|纪录片|documentary",
+      "flags": "i"
+    },
+    {
+      "key": "scene",
+      "label": "场景",
+      "pattern": "场景|地点|环境|背景|室内|户外|城市|森林|街头|scene|setting|location",
+      "flags": "i"
+    },
+    {
+      "key": "subject",
+      "label": "主体/角色",
+      "pattern": "角色|人物|主体|主角|女主|男主|character|subject",
+      "flags": "i"
+    },
+    {
+      "key": "camera",
+      "label": "镜头/运镜",
+      "pattern": "镜头|机位|运镜|推镜|拉远|特写|中景|全景|广角|低角度|俯拍|仰拍|dolly|tracking|pan|tilt|zoom|camera|shot|close-up|POV|FPV",
+      "flags": "i"
+    },
+    {
+      "key": "action",
+      "label": "动作",
+      "pattern": "动作|行为|奔跑|跳跃|行走|转身|凝视|挥舞|飞行|坠落|爆炸|fight|run|walk|jump|turns|moves",
+      "flags": "i"
+    },
+    {
+      "key": "lighting_color",
+      "label": "光影/色调",
+      "pattern": "光线|光影|色调|调色|逆光|霓虹|阴影|阳光|月光|lighting|palette|color|warm|cool|neon",
+      "flags": "i"
+    },
+    {
+      "key": "composition_lens",
+      "label": "构图/焦点",
+      "pattern": "构图|景别|景深|浅景深|焦点|焦段|微距|长焦|广角|lens|depth of field|macro|wide-angle|focus",
+      "flags": "i"
+    },
+    {
+      "key": "audio",
+      "label": "音频/声音",
+      "pattern": "音效|声音|BGM|音乐|对白|台词|歌词|ASMR|音频|低语|sound|audio|dialogue|voice|music",
+      "flags": "i"
+    },
+    {
+      "key": "dialogue_lip_sync",
+      "label": "对白/口型",
+      "pattern": "对白|台词|歌词|口型|唇|说[:：]|低语|whisper|says|dialogue|lyrics|lip",
+      "flags": "i"
+    },
+    {
+      "key": "negative_constraints",
+      "label": "负面约束",
+      "pattern": "禁止|不要|无文字|无字幕|无水印|无\\s*Logo|no text|no watermark|no subtitle|avoid",
+      "flags": "i"
+    },
+    {
+      "key": "consistency",
+      "label": "一致性锁定",
+      "pattern": "一致|锁定|保持不变|身份|面部不变|服装不变|consistent|unchanged|identity",
+      "flags": "i"
+    },
+    {
+      "key": "reference_image",
+      "label": "图片参考",
+      "pattern": "@?Image\\s*\\d|@Image|参考图|参考图片|图像\\s*\\d|形象\\s*\\d",
+      "flags": "i"
+    },
+    {
+      "key": "reference_video",
+      "label": "视频参考",
+      "pattern": "@?Video\\s*\\d|@Video|视频\\s*\\d|参考视频|延长|续写|extend",
+      "flags": "i"
+    },
+    {
+      "key": "reference_audio",
+      "label": "音频参考",
+      "pattern": "@?Audio\\s*\\d|@Audio|音频\\s*\\d|参考音频",
+      "flags": "i"
+    },
+    {
+      "key": "one_take",
+      "label": "一镜到底",
+      "pattern": "一镜到底|长镜头|无剪辑|single take|one[- ]take|continuous shot",
+      "flags": "i"
+    },
+    {
+      "key": "vfx",
+      "label": "特效/VFX",
+      "pattern": "特效|粒子|爆炸|流体|能量|光效|VFX|effect|simulation",
+      "flags": "i"
+    },
+    {
+      "key": "physics",
+      "label": "物理/材质",
+      "pattern": "物理|重力|惯性|重量|水体|布料|头发|真实运动|physics|momentum|fabric|hair",
+      "flags": "i"
+    }
+  ],
+  "genres": [
+    {
+      "key": "action",
+      "label": "动作/战斗",
+      "pattern": "动作片|动作场景|战斗|打斗|对决|追逐|爆炸|武士|剑术|剑客|赛车|竞速|battle|fight|chase|racing|race",
+      "flags": "i"
+    },
+    {
+      "key": "anime_comic",
+      "label": "动漫/漫改",
+      "pattern": "动漫|动画|漫改|漫画|二次元|anime|cartoon|comic",
+      "flags": "i"
+    },
+    {
+      "key": "cyberpunk_scifi",
+      "label": "赛博朋克/科幻",
+      "pattern": "赛博朋克|科幻|未来|机甲|机械|仿生|宇宙|cyberpunk|sci[- ]?fi|mecha",
+      "flags": "i"
+    },
+    {
+      "key": "fantasy",
+      "label": "奇幻/魔法",
+      "pattern": "奇幻|魔法|巨龙|龙族|精灵|城堡|神话|fantasy|magic|dragon",
+      "flags": "i"
+    },
+    {
+      "key": "travel_fpv",
+      "label": "旅行/FPV/航拍",
+      "pattern": "旅行|城市穿越|航拍|无人机|FPV|POV|drone|travel",
+      "flags": "i"
+    },
+    {
+      "key": "product_ad",
+      "label": "产品/广告",
+      "pattern": "产品|广告|商业广告|品牌|电商|product|commercial|advertising",
+      "flags": "i"
+    },
+    {
+      "key": "wuxia",
+      "label": "武侠/东方动作",
+      "pattern": "武侠|江湖|剑客|轻功|水墨|古琴|wuxia",
+      "flags": "i"
+    },
+    {
+      "key": "music_mv",
+      "label": "音乐/MV/舞蹈",
+      "pattern": "MV|说唱|歌手|演唱|歌词|舞蹈|rap|music video|dance video",
+      "flags": "i"
+    },
+    {
+      "key": "horror",
+      "label": "恐怖/惊悚",
+      "pattern": "恐怖|惊悚|诡异|幽灵|horror|thriller|eerie",
+      "flags": "i"
+    },
+    {
+      "key": "food_rural",
+      "label": "食物/田园/ASMR",
+      "pattern": "食物|厨房|乡村|田园|番茄|烹饪|ASMR|food|kitchen|rural",
+      "flags": "i"
+    },
+    {
+      "key": "romance",
+      "label": "情感/浪漫",
+      "pattern": "浪漫|暧昧|纯爱|恋爱|心动|爱情|romance|love",
+      "flags": "i"
+    },
+    {
+      "key": "fashion",
+      "label": "时尚/高定",
+      "pattern": "时尚|高定|模特|走秀|杂志|fashion|couture|model",
+      "flags": "i"
+    },
+    {
+      "key": "documentary",
+      "label": "纪录片/自然",
+      "pattern": "纪录片|野生动物|自然纪录|动物纪录|documentary|wildlife",
+      "flags": "i"
+    }
+  ],
+  "scoreModules": [
+    "duration",
+    "subject",
+    "scene",
+    "camera",
+    "action",
+    "lighting_color",
+    "composition_lens",
+    "audio",
+    "consistency",
+    "negative_constraints"
+  ],
+  "bonusModules": [
+    "timecoded_segments",
+    "reference_image",
+    "reference_video",
+    "reference_audio",
+    "one_take"
+  ],
+  "scoreLabels": [
+    { "min": 8, "label": "生产级" },
+    { "min": 5, "label": "标准型" },
+    { "min": 3, "label": "灵感型" },
+    { "min": 0, "label": "草图" }
+  ],
+  "structureLevels": [
+    {
+      "key": "idea",
+      "label": "灵感一句话",
+      "shortLabel": "灵感",
+      "maxLength": 80
+    },
+    {
+      "key": "short",
+      "label": "短提示",
+      "shortLabel": "短提示",
+      "maxLength": 200
+    },
+    {
+      "key": "standard",
+      "label": "标准提示",
+      "shortLabel": "标准",
+      "maxLength": 500
+    },
+    {
+      "key": "storyboard",
+      "label": "分镜提示",
+      "shortLabel": "分镜",
+      "maxLength": 1000
+    },
+    {
+      "key": "production",
+      "label": "生产级提示",
+      "shortLabel": "生产级"
+    }
+  ],
+  "timeSegmentPattern": "(?:\\[?\\s*(?:0{1,2}:)?\\d{1,2}\\s*[-–—~至到]\\s*(?:0{1,2}:)?\\d{1,2}|(?:^|[^\\d])\\d{1,2}\\s*[-–—~至到]\\s*\\d{1,2}\\s*秒)",
+  "termGroups": {
+    "camera": [
+      "特写",
+      "中景",
+      "全景",
+      "近景",
+      "广角",
+      "超广角",
+      "低角度",
+      "高角度",
+      "俯拍",
+      "仰拍",
+      "推镜",
+      "拉远",
+      "跟拍",
+      "摇镜",
+      "环绕",
+      "手持",
+      "固定镜头",
+      "一镜到底",
+      "慢动作",
+      "快剪",
+      "FPV",
+      "POV",
+      "dolly",
+      "tracking",
+      "close-up",
+      "wide shot",
+      "macro"
+    ],
+    "style": [
+      "电影感",
+      "超写实",
+      "动漫",
+      "赛博朋克",
+      "奇幻",
+      "纪录片",
+      "VHS",
+      "胶片",
+      "商业广告",
+      "时尚",
+      "水墨",
+      "武侠",
+      "恐怖",
+      "科幻",
+      "复古",
+      "3D",
+      "2D",
+      "ASMR",
+      "MV",
+      "FPV"
+    ],
+    "audio": [
+      "BGM",
+      "音效",
+      "环境音",
+      "对白",
+      "台词",
+      "歌词",
+      "低语",
+      "旁白",
+      "音乐",
+      "脚步声",
+      "风声",
+      "水声",
+      "心跳",
+      "ASMR",
+      "808",
+      "鼓点",
+      "口型同步"
+    ],
+    "constraints": [
+      "无文字",
+      "无字幕",
+      "无水印",
+      "无 Logo",
+      "禁止",
+      "不要",
+      "不变",
+      "一致",
+      "无变形",
+      "无漂移",
+      "无伪影"
+    ]
+  }
+}

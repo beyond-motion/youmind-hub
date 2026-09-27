@@ -1,0 +1,158 @@
+name: Sync And Deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *" # ~北京时间 02:00;GitHub 排队常晚 30~70 分钟
+  push:
+    branches:
+      - main
+    paths:
+      - "packages/**"
+      - "scripts/**"
+      - "site/**"
+      - "sources/**"
+      - "registry.json"
+      - "package.json"
+      - ".github/workflows/sync-and-deploy.yml"
+
+concurrency:
+  group: youmind-hub-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+  YOUMIND_LOCALE: zh-CN
+  YOUMIND_MAX_CACHE_AGE_HOURS: "12"
+  YOUMIND_ALLOW_STALE_CACHE_ON_ERROR: "1"
+
+jobs:
+  # Auto-discover sources so adding a model = add a config, no workflow edit.
+  discover:
+    runs-on: ubuntu-latest
+    outputs:
+      sources: ${{ steps.list.outputs.sources }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: list
+        run: echo "sources=$(node scripts/list-sources.mjs)" >> "$GITHUB_OUTPUT"
+
+  # One isolated matrix instance per source. fail-fast:false => a single source
+  # failing never blocks the others or the final site build/deploy.
+  fetch-sync:
+    needs: discover
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJSON(needs.discover.outputs.sources) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install --no-audit --no-fund
+
+      # Materialize this source's Feishu base/table from a secret (kept out of git).
+      - name: Write Feishu table map
+        env:
+          FEISHU_TABLES_JSON: ${{ secrets.FEISHU_TABLES_JSON }}
+        run: |
+          SLUG="${{ matrix.source }}"
+          node -e 'const fs=require("fs");const slug=process.argv[1];const map=JSON.parse(process.env.FEISHU_TABLES_JSON||"{}");const t=map[slug];if(t){fs.mkdirSync("sources/"+slug,{recursive:true});fs.writeFileSync("sources/"+slug+"/.local.json",JSON.stringify({baseToken:t.baseToken,tableId:t.tableId},null,2)+"\n");console.log("feishu table set for "+slug);}else{console.log("no feishu table configured for "+slug);}' "$SLUG"
+
+      - name: Restore prompt cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/${{ matrix.source }}
+          key: hub-cache-${{ runner.os }}-${{ matrix.source }}-${{ github.run_id }}
+          restore-keys: |
+            hub-cache-${{ runner.os }}-${{ matrix.source }}-
+
+      - name: Fetch prompts
+        env:
+          YOUMIND_SOURCE: ${{ matrix.source }}
+          YOUMIND_CACHE_DIR: ${{ github.workspace }}/.cache/${{ matrix.source }}
+        run: node scripts/fetch-prompts.mjs
+
+      - name: Sync to Feishu (Open API)
+        continue-on-error: true
+        env:
+          YOUMIND_SOURCE: ${{ matrix.source }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+        run: |
+          if [ -n "$FEISHU_APP_ID" ] && [ -f "sources/${{ matrix.source }}/.local.json" ]; then
+            node scripts/sync-feishu-api.mjs || echo "Feishu sync failed for ${{ matrix.source }} (continuing)"
+          else
+            echo "Skipping Feishu sync for ${{ matrix.source }} (no app creds or no table)."
+          fi
+
+      - name: Build site data
+        env:
+          YOUMIND_SOURCE: ${{ matrix.source }}
+          SITE_SOURCE_MODE: auto
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+        run: node scripts/build-one.mjs
+
+      - name: Upload site data
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-data-${{ matrix.source }}
+          path: dist/data/${{ matrix.source }}.json
+          if-no-files-found: error
+
+      - name: Save prompt cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/${{ matrix.source }}
+          key: hub-cache-${{ runner.os }}-${{ matrix.source }}-${{ github.run_id }}
+
+  # Aggregate all per-source artifacts into one site and deploy once.
+  build-deploy:
+    needs: [discover, fetch-sync]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install --no-audit --no-fund
+
+      - name: Download all site data
+        uses: actions/download-artifact@v4
+        with:
+          pattern: site-data-*
+          merge-multiple: true
+          path: .
+
+      - name: Assemble site
+        run: node scripts/assemble-site.mjs
+
+      # NOTE: if any dist/data/<slug>.json exceeds the Pages 25 MiB file limit,
+      # serve it from R2 via a Worker (as the old Seedance project did) and keep
+      # only static assets on Pages.
+      - name: Deploy Cloudflare Pages
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: npx wrangler pages deploy dist --project-name youmind-hub --branch main --commit-dirty=true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy GitHub Pages
+        uses: actions/deploy-pages@v4

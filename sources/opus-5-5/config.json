@@ -1,0 +1,5 @@
+{ "slug":"opus-5-5","title":"Opus 5.5","enabled":true,"order":12,"kind":"video",
+  "api":{"model":"claude-opus-5-5","endpoint":"video-prompts","gallerySlug":"opus-5-5-prompts","locale":"zh-CN"},
+  "feishu":{"baseToken":"","tableId":""},
+  "r2":{"enabled":false,"keyPrefix":"opus-5-5/videos"},
+  "branding":{"eyebrow":"Opus 5.5 Prompt Index","headline":"独立整理的 Claude Opus 5.5 提示词检索库","sourceRepo":"YouMind-OpenLab/awesome-opus-5-5-prompts","builderTemplates":["standard","minimal","image"]} }
