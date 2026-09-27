@@ -51,7 +51,16 @@ config 示例:
 }
 ```
 
-## 部署(需凭证,见计划 Task 7)
+## 部署与线上入口
+
+完整运维手册(架构 / Cloudflare 资源 / Secrets / 手动部署 / 排错)见 **[docs/DEPLOY.md](./docs/DEPLOY.md)**。
+
+| 入口 | 地址 |
+|---|---|
+| 规范站(canonical) | https://youmind.beyondmotion.net |
+| Cloudflare Pages | https://youmind-hub.pages.dev |
+| GitHub Pages 镜像 | https://beyond-motion.github.io/youmind-hub/ |
+| 旧域 301 | seedance.beyondmotion.net → /seedance-2-0/;gptimage.beyondmotion.net → /gpt-image-2/ |
 
 - **域名**:主域 `youmind.beyondmotion.net`,每库子路径 `/<slug>/`。
 - **双发**:Cloudflare Pages(项目 `youmind-hub`,自定义域,canonical)+ GitHub Pages(同路径镜像)。旧库域名 301 到对应子路径。

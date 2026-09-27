@@ -2,6 +2,7 @@
   "site": {
     "title": "YouMind Prompt Archive",
     "description": "独立整理的 YouMind 各模型提示词检索库:每日自动抓取、增量同步、静态归档。",
-    "dataOrigin": "https://youmind-hub-data-gate.violinpearson.workers.dev"
+    "dataOrigin": "https://youmind-hub-data-gate.violinpearson.workers.dev",
+    "canonical": "https://youmind.beyondmotion.net"
   }
 }

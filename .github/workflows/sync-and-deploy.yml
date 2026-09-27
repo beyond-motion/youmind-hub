@@ -56,7 +56,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: npm install --no-audit --no-fund
+      - run: npm ci
 
       # Materialize this source's Feishu base/table from a secret (kept out of git).
       - name: Write Feishu table map
@@ -125,7 +125,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: npm install --no-audit --no-fund
+      - run: npm ci
 
       # Download to a staging dir then flatten, so we are robust to whether
       # upload-artifact@v4 stored the file as "<slug>.json" or "dist/data/<slug>.json".
@@ -142,6 +142,9 @@ jobs:
           find _artifacts -type f -name '*.json' -exec mv -t dist/data {} +
           rm -rf _artifacts
           echo "data files:"; ls -1 dist/data
+
+      - name: Restore missing data from last-good (R2 via data worker)
+        run: node scripts/restore-lastgood.mjs
 
       # assemble-site runs the quality gate (fails if any enabled source has 0 prompts).
       - name: Assemble site

@@ -27,15 +27,17 @@ function main() {
     }
   }
 
-  const landingSrc = path.join(SITE_SRC, "index.html");
-  if (fs.existsSync(landingSrc)) {
-    fs.copyFileSync(landingSrc, path.join(DIST_DIR, "index.html"));
-  }
-
   const rootRegistry = readJsonIfExists(path.join(ROOT, "registry.json")) || {};
   const siteMeta = rootRegistry.site || {};
   const dataOrigin = siteMeta.dataOrigin || "";
+  const canonical = (siteMeta.canonical || "https://youmind.beyondmotion.net").replace(/\/+$/, "");
   const galleryTemplate = fs.readFileSync(path.join(SITE_SRC, "gallery.html"), "utf8");
+
+  const landingSrc = path.join(SITE_SRC, "index.html");
+  if (fs.existsSync(landingSrc)) {
+    const landingHtml = fs.readFileSync(landingSrc, "utf8").replaceAll("__CANONICAL__", canonical);
+    fs.writeFileSync(path.join(DIST_DIR, "index.html"), landingHtml);
+  }
 
   const registry = [];
   for (const slug of slugs) {
@@ -62,6 +64,7 @@ function main() {
     const html = galleryTemplate
       .replaceAll("__SLUG__", slug)
       .replaceAll("__DATA_ORIGIN__", dataOrigin)
+      .replaceAll("__CANONICAL__", canonical)
       .replaceAll("__TITLE__", title)
       .replaceAll("__EYEBROW__", branding.eyebrow || `${title} Prompt Index`)
       .replaceAll("__HEADLINE__", branding.headline || `独立整理的 ${title} 提示词检索库`)
