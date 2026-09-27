@@ -1,0 +1,17 @@
+# Cloudflare Pages cache policy.
+# The shell (HTML + JS) changes every deploy, so force revalidation to avoid
+# serving a stale app.js/landing.js for the default 4h asset cache. Large prompt
+# data is served from R2 via the data-gate Worker (not from Pages), and images
+# are remote, so only the small shell needs short caching here.
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+/*/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+/app.js
+  Cache-Control: public, max-age=0, must-revalidate
+/landing.js
+  Cache-Control: public, max-age=0, must-revalidate
+/registry.json
+  Cache-Control: public, max-age=0, must-revalidate
+/styles.css
+  Cache-Control: public, max-age=600

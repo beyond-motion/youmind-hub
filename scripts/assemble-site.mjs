@@ -20,7 +20,7 @@ function main() {
   const slugs = listSourceSlugs();
   fs.mkdirSync(path.join(DIST_DIR, "data"), { recursive: true });
 
-  for (const file of ["styles.css", "app.js", "landing.js"]) {
+  for (const file of ["styles.css", "app.js", "landing.js", "_headers"]) {
     const src = path.join(SITE_SRC, file);
     if (fs.existsSync(src)) {
       fs.copyFileSync(src, path.join(DIST_DIR, file));
