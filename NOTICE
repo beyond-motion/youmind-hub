@@ -1,0 +1,32 @@
+YouMind Prompt Archive — NOTICE
+
+本仓库(youmind-hub)是独立整理的第三方提示词归档 / 索引站点,与 YouMind 无隶属、赞助或背书关系。
+
+## 代码许可
+
+本仓库自有代码(scripts/、packages/core/、site/、workers/、.github/ 等)采用 MIT License,见 [LICENSE](./LICENSE)。
+
+## 内容许可与权属
+
+- 站点收录的提示词标题、正文、预览图等"内容"通过 YouMind 公开接口
+  (youmind.com/youmarketing-api)及其上游开源库 YouMind-OpenLab 抓取整理。
+- 上游提示词库以 CC BY 4.0 发布;原始著作权归各提示词作者 / 来源方所有。
+- 本站仅做索引、检索与归属展示,**不主张对上述内容的所有权,也不对内容进行再许可**。
+- 使用 / 转载内容时请:标注原始来源与作者、链接 CC BY 4.0、明示改动、不得暗示 YouMind 或本站对您的认可。
+
+## 按源归属(以上游仓库与官网为准)
+
+- Seedance 2.0 / 2.5 — github.com/YouMind-OpenLab/awesome-seedance-2-prompts 及 youmind.com 画廊
+- GPT Image 2 / 1.5 — github.com/YouMind-OpenLab/awesome-gpt-image-2 等
+- Nano Banana Pro — github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
+- Grok Imagine / Gemini Omni / Gemini 3 / Seedream 4.5 / Christmas Card —
+  对应 YouMind-OpenLab 仓库与 youmind.com 画廊
+- GPT 6 Astra / Opus 5.5 — youmind.com/zh-CN/gpt-6-astra-prompts、/opus-5-5-prompts(Claude Opus 5.5)
+
+## 商标
+
+"YouMind" 及相关 Logo、商标归其权利人所有。本项目不复刻其商标或整体视觉,仅独立实现检索功能。
+
+## 下架 / 投诉
+
+若某条内容涉及侵权或你希望移除,请联系维护者移除对应快照与线上数据(R2 中的 data/<slug>.json 与飞书记录)。

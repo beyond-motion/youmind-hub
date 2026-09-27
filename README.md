@@ -55,10 +55,11 @@ config 示例:
 
 - **域名**:主域 `youmind.beyondmotion.net`,每库子路径 `/<slug>/`。
 - **双发**:Cloudflare Pages(项目 `youmind-hub`,自定义域,canonical)+ GitHub Pages(同路径镜像)。旧库域名 301 到对应子路径。
-- **Secrets**(仓库级):`FEISHU_APP_ID`、`FEISHU_APP_SECRET`、`CLOUDFLARE_API_TOKEN`、`FEISHU_TABLES_JSON`。
-  `FEISHU_TABLES_JSON` 形如 `{"seedance-2-0":{"baseToken":"…","tableId":"…"},"nano-banana-pro":{…}}`,workflow 会在同步前写回各源 `.local.json`(故 base/table 不进 git)。
+- **数据服务(R2 + Worker)**:大的 `data/<slug>.json` 由 CI 上传到 R2 桶 `youmind-hub-data`,经 Worker `youmind-hub-data-gate`(`workers/data-gate`)按 slug 读出并带 CORS;Pages 只放 shell + registry + 子页(避开 25MiB/文件上限)。前端从 `registry.site.dataOrigin` 指向的 Worker 地址取数据,GitHub Pages 镜像站同样可用(运行时基址 + 跨域 CORS)。
+- **Secrets**(仓库级):`FEISHU_APP_ID`、`FEISHU_APP_SECRET`、`CLOUDFLARE_API_TOKEN`、`CLOUDFLARE_ACCOUNT_ID`、`FEISHU_TABLES_JSON`。
+  `FEISHU_TABLES_JSON` 形如 `{"seedance-2-0":{"baseToken":"…","tableId":"…"}}`,workflow 同步前写回各源 `.local.json`(base/table 不进 git)。部署 Worker 后,把 Worker 域名填到根 `registry.json` 的 `site.dataOrigin`(留空则本地/同源直读)。
 
-## 许可
+## 许可与合规
 
-- 本仓库自有代码:MIT。
-- 引用/改编的 YouMind OpenLab 提示词内容:CC BY 4.0,需标注来源、链接许可、明示改动,不得暗示 YouMind 认可。
+- 代码:MIT(见 [LICENSE](./LICENSE))。
+- 内容:提示词内容来自 YouMind / YouMind-OpenLab(CC BY 4.0),著作权归各来源方;本站仅做索引与归属,不对内容再许可。详见 [NOTICE](./NOTICE)(含按源归属与下架说明)。

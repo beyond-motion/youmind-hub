@@ -34,8 +34,13 @@ export function listSourceSlugs() {
 export const ACTIVE_SOURCE = ACTIVE_SLUG ? loadSourceConfig(ACTIVE_SLUG) : null;
 
 // per-source data/cache; the aggregated site is shared under dist/
+// Static sources (no API) keep their snapshot committed under sources/<slug>/;
+// API sources keep fetched snapshots under data/<slug>/.
+const _isStaticSource = Boolean(ACTIVE_SOURCE && ACTIVE_SOURCE.kind === "static");
 export const DATA_DIR = ACTIVE_SOURCE
-  ? path.join(ROOT, "data", ACTIVE_SOURCE.slug)
+  ? _isStaticSource
+    ? path.join(SOURCES_DIR, ACTIVE_SOURCE.slug)
+    : path.join(ROOT, "data", ACTIVE_SOURCE.slug)
   : path.join(ROOT, "data");
 export const CACHE_DIR = resolveDirPath(
   process.env.YOUMIND_CACHE_DIR || "",

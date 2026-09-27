@@ -1,0 +1,2289 @@
+{
+  "fetchedAt": "2026-08-14T18:40:52.560Z",
+  "locale": "zh-CN",
+  "model": "christmas-card",
+  "total": 120,
+  "totalPages": 1,
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Christmas Beavers · Construction Maniac Frame",
+      "description": "This prompt generates a playful animated style Christmas photo frame in a vertical 1:1.4 format. The border shows cartoon beavers enthusiastically building and over-engineering festive decorations with exaggerated seriousness, creating a humorous, print-optimized design.",
+      "content": "A vertical 1:1.4 printable Christmas photo frame illustrated in a playful animated style.\n\nNo environment, only the frame.\n\nA blank photo placeholder is centered, 1:1.4 ratio, 70% width, completely clean.\n\nThe border shows cartoon beavers enthusiastically building, hammering, and over-engineering festive decorations with exaggerated seriousness.\n\nFlat, humorous, print-optimized, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": true,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788305465_26xq8b_1765784485322-36atj1-wHnfa3VL4BApgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 2,
+      "title": "Christmas Koalas · Can't-Let-Go Frame",
+      "description": "This prompt creates an animated Christmas photo frame in a vertical 1:1.4 format. The border features cartoon koalas hugging ornaments and garlands, refusing to let go, creating gentle, cozy humor in a print-ready design.",
+      "content": "A printable animated Christmas photo frame in vertical 1:1.4 format.\n\nFrame-only design.\n\nA blank photo placeholder is centered both horizontally and vertically, 1:1.4 aspect ratio, 70% width, completely untouched.\n\nThe border features cartoon koalas hugging ornaments, garlands, and candy canes, refusing to let go, creating gentle, cozy humor.\n\nFlat, warm, print-ready, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": true,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 3,
+      "title": "Christmas Hedgehogs + Squirrels · Joint Disaster Frame",
+      "description": "This prompt generates a humorous animated style Christmas frame in a vertical 1:1.4 format. The border features cartoon hedgehogs and squirrels competing to collect decorations, accidentally causing festive chaos around the edges of the frame.",
+      "content": "A vertical 1:1.4 printable Christmas frame illustrated in a humorous animated style.\n\nOnly the frame itself.\n\nExact center blank photo placeholder, 1:1.4, 70% width, clean and empty.\n\nThe border features cartoon hedgehogs and squirrels competing to collect decorations, accidentally causing festive chaos around the edges.\n\nFlat composition, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": true,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 4,
+      "title": "Christmas Chameleons · Failed Camouflage Frame",
+      "description": "This prompt creates a humorous cartoon style Christmas frame in a vertical 1:1.4 format. The border features cartoon chameleons unsuccessfully blending into decorations, clearly visible and confused, adding subtle visual humor to the print-friendly design.",
+      "content": "A printable Christmas frame in vertical 1:1.4, humorous cartoon style.\n\nFrame-only illustration.\n\nCentered blank photo placeholder, 1:1.4, 70% width, untouched.\n\nThe border features cartoon chameleons unsuccessfully blending into ornaments, lights, and garlands, clearly visible and confused, adding subtle visual humor.\n\nFlat, print-friendly, no lettering.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": true,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 5,
+      "title": "Christmas Owls · Overly Serious Frame",
+      "description": "This prompt creates an animated storybook style Christmas frame in a vertical 1:1.4 format. The border features cartoon owls staring skeptically at messy decorations and judging holiday chaos with dry humor.",
+      "content": "A printable Christmas frame illustration in vertical 1:1.4, animated storybook style.\n\nFrame-only composition.\n\nCentered blank photo placeholder, 1:1.4, 70% width, untouched.\n\nThe border features cartoon owls wearing scarves and hats, staring skeptically at messy decorations, holding clipboards, and judging holiday chaos with dry humor.\n\nFlat illustration, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": true,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 6,
+      "title": "Christmas Octopus · Eight-Armed Frenzy Frame",
+      "description": "This prompt generates a humorous cartoon animation style Christmas photo frame in a vertical 1:1.4 format. The border features a cartoon octopus using all its arms to decorate, resulting in playful festive chaos.",
+      "content": "A vertical 1:1.4 printable Christmas photo frame illustrated in a humorous cartoon animation style.\n\nOnly the frame design, no environment.\n\nA blank photo placeholder is perfectly centered, 1:1.4 ratio, 70% width, fully empty.\n\nThe border features a cartoon octopus using all its arms to decorate ornaments, lights, candy canes, and stars simultaneously, resulting in playful festive chaos.\n\nFlat, clean, print-ready, no typography.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": true,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 7,
+      "title": "Christmas Rabbits · Hyper-Busy Frame",
+      "description": "This prompt creates an animated Christmas frame in a vertical 1:1.4 format, featuring playful chaos. The border showcases energetic cartoon rabbits wrapping gifts too fast and tripping over ribbons, adding a lively, humorous touch.",
+      "content": "A printable animated Christmas frame in vertical 1:1.4 format.\n\nFrame-only illustration.\n\nCentered blank photo placeholder, horizontal + vertical center, 1:1.4, 70% width, untouched.\n\nThe border features energetic cartoon rabbits wrapping gifts too fast, tripping over ribbons, juggling ornaments, and rushing around the edges of the frame.\n\nPlayful chaos, flat illustration, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 8,
+      "title": "Christmas Hedgehogs · Ornament Collector Frame",
+      "description": "This prompt generates a humorous animated style Christmas photo frame in a vertical 1:1.4 format. The frame border shows cartoon hedgehogs accidentally collecting ornaments and lights on their spines, adding cute, exaggerated visual humor.",
+      "content": "A vertical 1:1.4 printable Christmas photo frame illustrated in a humorous animated style.\n\nNo external environment.\n\nExact center blank photo placeholder, 1:1.4, 70% width, completely clean.\n\nThe frame border shows cartoon hedgehogs accidentally collecting ornaments, stars, and lights on their spines, looking surprised and confused in a cute, exaggerated way.\n\nFlat, print-optimized, no lettering.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 9,
+      "title": "Christmas Pandas · Chill Holiday Frame",
+      "description": "This prompt generates a soft animated storybook style Christmas photo frame in a vertical 1:1.4 format. The border features chill cartoon pandas lounging on ornaments and hugging candy canes, creating gentle, cozy humor.",
+      "content": "A printable Christmas photo frame illustration in vertical 1:1.4, drawn in a soft animated storybook style.\n\nFrame-only composition.\n\nA vertically oriented blank photo placeholder is centered, 1:1.4 aspect ratio, 70% width, completely empty.\n\nThe border features chill cartoon pandas lounging on ornaments, hugging candy canes, half-asleep in festive decorations with gentle humor.\n\nFlat illustration, warm palette, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 10,
+      "title": "Christmas Turtles · Take-It-Slow Frame",
+      "description": "This prompt creates a vertical 1:1.4 printable Christmas frame in a calm yet humorous cartoon style. The border features relaxed cartoon turtles moving at an exaggerated slow pace, adding a gentle, peaceful humor to the design.",
+      "content": "A vertical 1:1.4 printable Christmas frame in a calm yet humorous cartoon style.\n\nOnly the frame illustration, no background scene.\n\nA blank photo placeholder sits perfectly centered, with 1:1.4 ratio and 70% width, untouched.\n\nThe border is decorated with relaxed cartoon turtles wearing scarves, calmly stacking ornaments, meditating with holiday lights, and moving at an exaggerated slow pace.\n\nFlat, balanced, print-friendly, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 11,
+      "title": "Christmas Squirrels · Hoarding Frenzy Frame",
+      "description": "This prompt generates a humorous animated Christmas photo frame in a vertical 1:1.4 format. The border features frantic cartoon squirrels hoarding ornaments and stuffing stockings, adding cozy humor to a print-friendly design.",
+      "content": "A printable Christmas photo frame illustration in vertical 1:1.4 format, illustrated in a humorous animated style.\n\nFrame-only design, no environment.\n\nCentered blank photo placeholder, horizontal and vertical center, 1:1.4 aspect ratio, 70% frame width, completely empty.\n\nThe border features frantic cartoon squirrels hoarding ornaments, stuffing stockings, hiding nuts inside baubles, and peeking nervously from behind decorations.\n\nFlat illustration, cozy humor, no typography.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 12,
+      "title": "Christmas Monkeys · Mischief Frame",
+      "description": "This prompt generates a vertical 1:1.4 printable animated Christmas photo frame with playful cartoon energy. The border features cheeky monkeys swinging on garlands and stealing stars, illustrated in a lively animation style.",
+      "content": "A vertical 1:1.4 printable animated Christmas photo frame with playful cartoon energy.\n\nNo environment, only the frame itself.\n\nA large blank photo placeholder is centered both horizontally and vertically, with 1:1.4 ratio and 70% width, entirely empty.\n\nThe frame border features cheeky cartoon monkeys swinging on garlands, stealing stars, hanging upside down, and making silly expressions, illustrated in a lively animation style.\n\nFlat, balanced, print-ready, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 13,
+      "title": "Slow-Motion Snails · Christmas Frame",
+      "description": "This prompt creates a humorous animated children's book style Christmas photo frame featuring slow-moving cartoon snails dragging ornaments and leaving glittery trails. It's a vertical 1:1.4 aspect ratio, focusing only on the frame design.",
+      "content": "A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, drawn in a humorous animated children’s book style.\n\nThe illustration focuses only on the frame design.\n\nAt the exact center, include a blank photo placeholder area, horizontally and vertically centered, 1:1.4 aspect ratio, 70% of total width, completely clean.\n\nThe border features slow-moving cartoon snails wearing tiny Santa hats, dragging ornaments, leaving glittery trails, and climbing festive decorations at an absurdly relaxed pace.\n\nFlat illustration, cozy humor, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788187927_i4a6av_1765783585550-863woz-A8zt1pp7Z9V2AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 14,
+      "title": "Christmas Dogs · Out-of-Control Frame",
+      "description": "This prompt generates a humorous, vertical 1:1.4 printable Christmas photo frame in a cartoon animation style. The frame border is filled with excited cartoon dogs tangled in lights and knocking over decorations, creating a cheerful, energetic scene.",
+      "content": "A vertical 1:1.4 printable Christmas photo frame illustrated in a humorous cartoon animation style.\n\nThe design shows only the frame itself, with no background environment.\n\nA blank photo placeholder is reserved at the exact horizontal and vertical center, with 1:1.4 aspect ratio and 70% width of the frame, fully empty and clearly defined.\n\nThe frame border is filled with excited cartoon dogs tangled in Christmas lights, chasing ornaments, knocking over decorations, and wearing oversized festive sweaters in exaggerated poses.\n\nCheerful, energetic, flat, and optimized for print, no lettering.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788186415_etmvj2_1765783586949-k560dn-D9r9UuCKmr6RAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 15,
+      "title": "Christmas Raccoons · Sneaky Theft Frame",
+      "description": "This prompt generates a printable Christmas photo frame illustration featuring mischievous raccoons stealing ornaments and candy canes, creating a playful, chaotic holiday vibe. It's designed as a standalone frame with a 1:1.4 aspect ratio, suitable for high-quality print.",
+      "content": "A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.\n\nThe illustration focuses only on the frame itself, with no external environment or background scene. The style is humorous animated storybook illustration with clean outlines and soft textures.\n\nAt the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered, with a 1:1.4 portrait aspect ratio and 70% of the total frame width, completely empty and untouched.\n\nThe surrounding frame border features mischievous cartoon raccoons stealing ornaments, hiding candy canes, peeking from corners, and dangling upside down from garlands, creating a playful chaotic holiday vibe.\n\nFlat composition, print-friendly colors, no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 16,
+      "title": "Clumsy Penguins Children's Book Animation Photo Frame",
+      "description": "This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.",
+      "content": "A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.\n\nThe design focuses entirely on the frame itself, with flat illustration and no background environment.\n\nA large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.\n\nThe surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.\n\nThe overall style is joyful, funny, animated, and print-friendly, with no text or lettering.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 17,
+      "title": "Funny Gingerbread Animated Illustration Photo Frame",
+      "description": "This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.",
+      "content": "A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.\n\nThe illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.\n\nAt the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.\n\nThe frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.\n\nThe mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 18,
+      "title": "Lazy Sloth Style Animated Christmas Photo Frame",
+      "description": "This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.",
+      "content": "A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.\n\nThe illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.\n\nAt the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.\n\nThe surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.\n\nThe illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 19,
+      "title": "Playful Polar Bear Cartoon Christmas Photo Frame",
+      "description": "This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.",
+      "content": "A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.\n\nThe frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.\n\nA blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.\n\nThe border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.\n\nThe overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 20,
+      "title": "Mischievous Cats Christmas Sticker Style Photo Frame",
+      "description": "This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.",
+      "content": "A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.\n\nThe design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.\n\nIn the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.\n\nThe surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.\n\nThe composition remains flat, balanced, and print-ready, with no text elements.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 21,
+      "title": "Koala Clinging to Christmas Tree",
+      "description": "This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.",
+      "content": "A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 22,
+      "title": "Bear Baker with Living Gingerbread Men",
+      "description": "This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.",
+      "content": "A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 23,
+      "title": "Dormouse Asleep in Teacup",
+      "description": "This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.",
+      "content": "A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 24,
+      "title": "Octopus Decorating Coral Christmas Tree",
+      "description": "This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.",
+      "content": "A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 25,
+      "title": "Magical Snowy Owl Delivering Mail",
+      "description": "This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.",
+      "content": "A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 26,
+      "title": "Sneaky Raccoons Stealing Santa's Treats",
+      "description": "This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.",
+      "content": "A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural \"bandit mask\" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 27,
+      "title": "Penguin Skiing with Candy Canes",
+      "description": "This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.",
+      "content": "A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 28,
+      "title": "Sleeping Polar Bears",
+      "description": "This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.",
+      "content": "A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 29,
+      "title": "Tuxedo Cat Tangled in Ribbon",
+      "description": "This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.",
+      "content": "A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 30,
+      "title": "Capybara in Japanese Hot Spring",
+      "description": "This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.",
+      "content": "A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 31,
+      "title": "Singing Birds on Holly Branch",
+      "description": "This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.",
+      "content": "A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 32,
+      "title": "Squirrel with Wrapped Acorn",
+      "description": "This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.",
+      "content": "A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 33,
+      "title": "Corgi Stuck in Chimney",
+      "description": "This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.",
+      "content": "A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 34,
+      "title": "Fluffy Highland Cow with Christmas Lights",
+      "description": "This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.",
+      "content": "A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 35,
+      "title": "Long Dachshund Christmas Card",
+      "description": "This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.",
+      "content": "A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: \"Longing for Christmas.\"",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 36,
+      "title": "Whimsical Hedgehog Christmas Card",
+      "description": "This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.",
+      "content": "A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 37,
+      "title": "Kawaii Otters with Candy Cane",
+      "description": "This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.",
+      "content": "An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-14T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 38,
+      "title": "Santa's Laundry Line Christmas Card",
+      "description": "A whimsical and domestic Christmas scene featuring Santa's iconic clothes drying on a tinsel clothesline, including a humorous pair of boxer shorts. This prompt offers a unique and funny take on Santa getting ready for the big day.",
+      "content": "A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made of festive tinsel is strung across a pale blue snowy sky background. Pinned to the line with wooden clothespins are Santa's iconic clothes: his big red jacket with white fur trim, his red trousers, a pair of red suspenders, and a pair of humorous white boxer shorts covered in a pattern of green holly leaves and red berries. A small bluebird is perched on the clothesline. The style is a clean, flat illustration with a paper-cut texture effect. A unique and funny take on Santa getting ready.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 39,
+      "title": "Pug Disguised as Elf Christmas Card",
+      "description": "A funny, flat vector illustration for a Christmas card showing a pug dog trying to blend in with Santa's elves. This prompt is perfect for creating humorous and lighthearted holiday greetings.",
+      "content": "A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The image shows a horizontal lineup of four Santa's elves dressed in green tunics, red and white striped tights, and pointy hats. In the middle of the line, trying to blend in, is a beige Pug dog standing on its hind legs, wearing the exact same elf costume. The elves on either side are looking at the dog with side-eye suspicion, while the dog looks straight ahead with a blank, innocent expression. The background is a solid festive red. Text at the bottom reads: {argument name=\"text\" default=\"Day 24: They still suspect nothing.\"} in a typewriter font.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 40,
+      "title": "Reindeer Flight School Christmas Card",
+      "description": "A charming and funny Christmas card design depicting a baby reindeer's clumsy but determined attempt at flight school, aided by a tiny robin. This prompt is ideal for creating whimsical and endearing holiday messages.",
+      "content": "A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depicts a \"Reindeer Flight School.\" A cute, clumsy baby reindeer with a slightly oversized red nose is hovering just a few inches off the snowy ground, legs splayed out in all directions, looking panicked but determined. He is wearing vintage aviator goggles and a brown leather helmet. Behind him, a tiny red robin bird is using its beak to push the reindeer's bottom to help him stay up. The background is a simple, pale blue winter sky with fluffy white clouds. The style is a detailed colored pencil drawing on textured paper.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 41,
+      "title": "Marshmallow Hot Tub Christmas Card",
+      "description": "A kawaii style printable Christmas card illustration featuring adorable marshmallow characters relaxing in a mug of hot chocolate. This prompt creates a fun and sweet image, perfect for delightful holiday greetings.",
+      "content": "A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The view is a top-down perspective looking into a red ceramic mug filled with rich, brown hot chocolate. Inside the mug, three adorable white marshmallow characters are relaxing as if it's a hot tub. One marshmallow is leaning back with drawn-on sunglasses made of chocolate icing. Another is wearing a tiny candy cane snorkel. The third is floating on a square of chocolate bar like a raft. Steam swirls rise up in the shape of hearts. The background outside the mug is a soft pink with white polka dots. High resolution, bright colors, vector art style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 42,
+      "title": "Hamster with Cranberry Christmas Card",
+      "description": "An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style. This prompt generates a heartwarming scene of a chubby hamster enjoying a cranberry, perfect for cozy holiday greetings.",
+      "content": "An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style, aspect ratio 1:1.4. The scene is a close-up macro view of a chubby, golden-brown hamster wearing a tiny, knitted red Santa hat. The hamster sits at a miniature wooden table made from a popsicle stick. He is holding a single, bright red cranberry with both paws, looking absolutely delighted with stuffed cheeks. On the table, there is a thimble serving as a cup and a tiny plate with a crumb of cheese. The background is a warm, creamy off-white paper texture with faint watercolor holly leaves in the corners. The mood is cozy, tiny, and heartwarming.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 43,
+      "title": "Cat in Christmas Lights Christmas Card",
+      "description": "A humorous and cute printable card design featuring a mischievous black cat tangled in a mess of colorful vintage Christmas lights. This prompt is perfect for creating funny holiday cards that capture the playful chaos of pets during Christmas.",
+      "content": "A humorous and cute printable card design, aspect ratio 1:1.4. The illustration features a chaotic, tangled mess of colorful vintage Christmas lights (red, green, blue, yellow bulbs) forming a rough ball shape in the center of a solid white background. Emerging from the center of the tangle is a cute black cat with wide, yellow eyes and a mischievous expression. The cat has one paw stuck out, batting at a loose bulb. A \"To/From\" gift tag is tangled in the wire, dangling from the cat's ear. The style is a flat graphic illustration with clean lines and vibrant colors. Text at the bottom: {argument name=\"text\" default=\"I Helped.\"} in a messy, scratchy black font.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 44,
+      "title": "Watercolor Snowy Cabin Landscape",
+      "description": "A serene watercolor Christmas card featuring a lonely cabin in a snowy field at sunset with beautiful gradient skies, perfect for conveying peaceful holiday sentiments",
+      "content": "A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field at sunset. The sky is a gradient of {argument name=\"sky color 1\" default=\"purple\"}, {argument name=\"sky color 2\" default=\"pink\"}, and {argument name=\"sky color 3\" default=\"orange\"}. Smoke rises vertically from the chimney. Soft, wet-on-wet watercolor technique.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 45,
+      "title": "Luxury Navy Snowflake Mandala Card",
+      "description": "An elegant luxury Christmas card with deep navy velvet texture and an intricate gold foil snowflake mandala design, perfect for premium holiday greetings",
+      "content": "An exquisite luxury card design, --ar 10:14. A deep {argument name=\"background color\" default=\"navy blue\"} velvet texture background. In the center, a large, intricate snowflake mandala is rendered in embossed {argument name=\"foil color\" default=\"gold\"} foil. The {argument name=\"foil color\" default=\"gold\"} looks shiny and metallic.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 46,
+      "title": "Vintage Travel Poster Winter Scene",
+      "description": "A Christmas card designed in vintage travel poster style featuring a snowy mountain lodge with bold flat colors and screen print texture aesthetics",
+      "content": "A vintage travel poster style Christmas card. A stylized view of a snowy mountain lodge with a skier. Bold flat colors, screen print texture. Text at bottom: \"{argument name=\"message\" default=\"Winter Wonderland\"}\". --ar 10:14",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 47,
+      "title": "Nostalgic Toy Shop Window Scene",
+      "description": "A heartwarming nostalgic illustration of a toy shop window at night with a toy train and tin soldiers, capturing the magic of Christmas through a child's eyes",
+      "content": "A nostalgic illustration of a toy shop window at night. Inside, a toy train circles a tree, and tin soldiers stand guard. The window frame is wood, and snow gathers in the corners. Warm yellow glow from inside.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 48,
+      "title": "Mid-Century Modern Christmas Card",
+      "description": "A retro geometric Christmas design with mid-century modern atomic starbursts and diamond shapes in vibrant colors, perfect for fans of 1950s aesthetic",
+      "content": "A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and diamond shapes in {argument name=\"color 1\" default=\"gold\"}, {argument name=\"color 2\" default=\"turquoise\"}, and {argument name=\"color 3\" default=\"orange\"} on a {argument name=\"background color\" default=\"cream\"} background. \"{argument name=\"greeting\" default=\"Merry Christmas\"}\" in a retro 50s font.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 49,
+      "title": "Victorian Father Christmas Postcard",
+      "description": "A vintage-style Christmas card inspired by Victorian postcards, featuring Father Christmas in traditional robes walking through a snowy village with detailed cross-hatching artwork",
+      "content": "A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic Father Christmas in a long {argument name=\"robe color\" default=\"green\"} robe with {argument name=\"trim color\" default=\"gold\"} trim walks through a snowy village carrying a lantern. Muted colors, aged paper texture, detailed cross-hatching.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 50,
+      "title": "Sleepy Animals Stack Christmas Card",
+      "description": "A heartwarming cartoon illustration of three adorable animals hibernating together under a cozy quilt, perfect for conveying comfort and warmth during the holidays",
+      "content": "A cute cartoon illustration. A stack of three sleepy animals: a {argument name=\"bottom animal\" default=\"bear\"} at the bottom, a {argument name=\"middle animal\" default=\"fox\"} in the middle, and a {argument name=\"top animal\" default=\"bunny\"} on top, all hibernating together under a patchwork quilt. \"{argument name=\"message\" default=\"Cozy & Bright\"}\" text in the clouds above. --ar 10:14",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 51,
+      "title": "Penguin Christmas Lights Struggle Card",
+      "description": "A humorous Christmas card featuring a cute cartoon penguin struggling with tangled Christmas lights, perfect for adding humor to holiday greetings",
+      "content": "A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is struggling to untangle a massive ball of colorful Christmas lights. The penguin looks frustrated but adorable. White background with soft blue snow shadows. Text: \"{argument name=\"message\" default=\"It's that time again...\"}\"",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 52,
+      "title": "Modern Typography Christmas Tree Card",
+      "description": "A minimalist Christmas card design featuring a geometric tree made entirely from holiday typography on a solid background, perfect for modern holiday greetings with clean aesthetics",
+      "content": "A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name=\"background color\" default=\"matcha green\"} background, a geometric Christmas tree is formed entirely by white typography of varying weights and sizes, spelling out holiday words like \"{argument name=\"word 1\" default=\"Joy\"}\", \"{argument name=\"word 2\" default=\"Love\"}\", \"{argument name=\"word 3\" default=\"Noel\"}\", \"{argument name=\"word 4\" default=\"Snow\"}\". The overall shape is a clean triangle. Minimalist and bold.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 53,
+      "title": "Kawaii Hot Cocoa Christmas Card",
+      "description": "An adorable kawaii-style Christmas card featuring a smiling cup of hot cocoa with cute marshmallows, perfect for sending warm holiday wishes",
+      "content": "A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallows bathing in it. The marshmallows have tiny faces. Steam rises in the shape of a heart. Pastel pink background with white polka dots. Text: \"{argument name=\"message\" default=\"Sending you a hug in a mug.\"}\" --ar 10:14",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 54,
+      "title": "Snowman and Birds on Park Bench",
+      "description": "A detailed, painterly illustration of a snowman sitting on a park bench feeding birds. This peaceful and heartwarming winter scene is perfect for a charming greeting card.",
+      "content": "A beautiful and charming winter illustration, perfect for a printable greeting card. A friendly snowman with a carrot nose, coal eyes, and a smile sits on a weathered green wooden park bench partially covered in soft snow. The snowman is dressed in a dark brown fedora and a warm red and yellow patterned scarf, with twig arms resting on the bench.\n\nA vibrant red cardinal is perched on the back of the bench. Next to the snowman sits a small burlap sack overflowing with birdseed. Several cute black-capped chickadees are happily eating seeds on the bench and on the snowy ground in the foreground.\n\nThe background shows a serene, snowy landscape with a forest of pine trees under a pale, overcast sky with large, soft snowflakes gently falling. The entire scene has a soft, painterly texture with a gentle, embossed quality, creating a heartwarming and peaceful mood.\n\nHigh detail, intricate, beautiful illustration, printable quality. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593129753_dphmou_1765542717500-wca3kg-AEkFhS5ZRZGuAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 55,
+      "title": "Navy Blue Silver Filigree Card",
+      "description": "An elegant, minimalist card with a deep navy blue background. It features delicate silver and light blue filigree swirls framing a customizable white script greeting for a refined winter look.",
+      "content": "A beautiful, printable Christmas greeting card design, flat vector art style, with a 1:1.4 aspect ratio. The background is a solid, deep navy blue.\n\nIn the center, the words {argument name=\"greeting\" default=\"Merry Christmas\"} are written in an elegant, flowing white script font.\n\nThe text is surrounded by delicate, symmetrical filigree swirls and flourishes in light blue and silvery-gray. These decorative vines are adorned with stylized silver-gray leaves and small dots like winter berries or snow, also in light blue and silver. A simple, thin horizontal stripe in a lighter blue runs along the bottom edge.\n\nThe overall design is clean, minimalist, and sophisticated with a cool winter color palette. High resolution, sharp lines, elegant graphic illustration.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593118601_t43mfw_1765542800139-9t5j6m-Pnj7vZUZJiy0UYF4YAeCGkhb6goNak_pMGj9CB8ZaywWTy4E7OJeAA0QyE9tOXnMQvUQiZZ0gxT5ULWvUhfNeaUfiYENsERrejhIZJ4mI828Bj42B83_99btdsplqkWXAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 56,
+      "title": "Charcoal Folk Art Botanical Card",
+      "description": "A sophisticated dark charcoal card featuring a hand-painted folk art botanical border. The elegant white brush script greeting is customizable, creating a stylish and artistic holiday design.",
+      "content": "An exquisite, printable Christmas card design, presented in a frontal view.\nThe background is a solid dark charcoal gray with a matte paper texture.\n\nIn the center, the greeting {argument name=\"greeting\" default=\"Merry Christmas\"} is elegantly hand-lettered in a flowing white brush script.\nThe text is beautifully framed by a dense, hand-painted border of festive botanicals in a charming folk art style. This border features stylized red poinsettia flowers, dark green holly leaves with red berries, pine sprigs, and clusters of golden-yellow berries.\n\nLight teal leafy vines are woven throughout the arrangement, providing a modern and colorful contrast. Small, simple red hearts are tucked into the design, adding a touch of warmth.\n\nThe illustration has a flat, 2D gouache on paper look, with opaque colors and a delightful handcrafted feel.\n\nAspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593117678_3wddz7_1525c642fbafba652b268d95c7a838dfa7452b90b54f2d816316471b4ea57564"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 57,
+      "title": "Watercolor Snowman Family Portrait",
+      "description": "A heartwarming watercolor illustration of a snowman family posing for a photo. It features customizable greetings and names, making it a sweet and personalized printable card.",
+      "content": "A beautiful, printable Christmas greeting card design in a charming watercolor style.\n\nIn the center, a delightful family of three snowmen—a father snowman in a black top hat and plaid scarf, a mother snowman in a red beanie and plaid scarf, and a small child snowman in a striped red scarf—pose happily in the snow. They are surrounded by colorful wrapped gift boxes.\n\nBehind them stands a beautifully decorated Christmas tree with red and gold baubles and a shining star on top.\n\nThe background is a clean, solid white with delicate, light grey snowflakes gently falling.\n\nAt the top, the greeting '{argument name=\"Greeting\" default=\"Merry Christmas\"}' is written in an elegant, flowing black script font. Below it, the text '{argument name=\"Sub-greeting\" default=\"TO A SPECIAL FAMILY\"}' appears in a simple, smaller capital font.\n\nAt the bottom, personalized names '{argument name=\"Names\" default=\"James Ella Claire\"}' are written in the same elegant black script.\n\nThe overall design is heartwarming, clean, and festive. Flat 2D illustration, front-facing view. High resolution, intricate details, perfect for printing. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593112693_tbzdp1_1765542771077-re2e48-FXsAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 58,
+      "title": "Personalized Snowman Family of Four",
+      "description": "A clean flat design featuring a family of four snowmen, each with customizable names on their chests. Set against a grey winter background, it's a perfect personalized holiday card for families.",
+      "content": "A charming, flat design Christmas card illustration featuring a family of four smiling snowmen standing in a row on a snowy landscape. The style is clean, whimsical, and vector-like.\n\nThe background is a layered winter scene with a medium grey sky filled with small white dots for snow and elegant white swirls. Below the sky are two rolling hills in a lighter shade of grey.\n\nThe four snowmen are in the center. Each is made of two white snowballs and has black dot eyes, a carrot nose, and a happy smile. They are personalized with names and accessories:\nThe first snowman on the left wears a red beanie and has the name {argument name=\"name 1\" default=\"MARK\"} on its chest.\nThe second snowman wears red earmuffs and a red scarf, with the name {argument name=\"name 2\" default=\"STACEY\"}.\nThe third snowman wears a red pom-pom beanie and a red scarf, with the name {argument name=\"name 3\" default=\"OLIVIA\"}.\nThe fourth snowman on the right wears a red beanie, with the name {argument name=\"name 4\" default=\"NATHAN\"}.\n\nBelow the snowmen, in a clean white foreground area, the text \"MERRY CHRISTMAS\" is written in a classic black serif font.\n\nThe image is a high-resolution, exquisite, printable greeting card design. Frontal view, full-frame composition, with an aspect ratio of 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593109991_8ocrst_1765542753071-41zde7-Ave3RnyKjUg4AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 59,
+      "title": "Rainbow Bottle Brush Trees",
+      "description": "A modern minimalist card featuring a row of rainbow-colored bottle brush trees on a pale pink background. With customizable clean text, it offers a chic and colorful holiday design.",
+      "content": "A high-quality, printable Christmas card design in a minimalist flat illustration style, aspect ratio 1:1.4.\n\nThe design is set against a solid, very pale pink background.\nAt the top center, the text '{argument name=\"top text\" default=\"MERRY CHRISTMAS\"}' is written in a simple, clean, all-caps font. Directly below, the phrase '{argument name=\"bottom text\" default=\"one and all\"}' appears in a delicate, casual handwritten script.\n\nThe main illustration features a row of six stylized bottle brush Christmas trees in the lower half of the card. The trees are rendered with a sketchy, scribbled texture of dense horizontal lines. They are arranged in a vibrant rainbow color order from left to right: red, orange, yellow, green, blue, and purple.\n\nThe trees vary slightly in height, creating a gentle, uneven line. Each tree has a simple trunk and a small, flat oval stand. The text and the tree stands are a matching muted taupe brown color. The overall design is clean, modern, and charming.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593104713_92v7gn_1765542766174-8fiudf-LyIef3BrpnYKAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 60,
+      "title": "Elegant Golden Filigree Tree on Green",
+      "description": "A luxurious minimalist design featuring a Christmas tree formed by intricate golden filigree swirls on a forest green background. Customizable gold script adds a sophisticated touch.",
+      "content": "An exquisite, printable Christmas greeting card design, aspect ratio 1:1.4. The design features a solid, deep forest green background.\n\nCentered on the card is a beautifully stylized Christmas tree composed of intricate, swirling golden filigree and ribbons. These elegant, flowing lines and curls form the iconic triangular shape of a tree, topped with a simple loop.\n\nThe tree is lavishly decorated with small, sparkling golden stars, starbursts, and tiny dots that resemble festive lights. The golden elements have a subtle gradient giving them a shiny, metallic foil appearance.\n\nBelow the tree, the greeting '{argument name=\"text\" default=\"Merry Christmas\"}' is written in an elegant, flowing cursive script, matching the golden color and texture of the tree.\n\nThe overall style is modern, minimalist, and very elegant. Flat vector graphic illustration.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593053111_hc7c8v_1765542676018-pr2jcx-8Ml6p2dNmHqAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 61,
+      "title": "Personalized Family Stockings Watercolor",
+      "description": "A clean watercolor design featuring hanging stockings on a pine garland. It allows full customization of names, stocking patterns, and greetings, perfect for a personalized family card.",
+      "content": "An exquisite, printable Christmas greeting card design in a minimalist watercolor style, set against a clean, solid white background.\n\nIn the upper half of the card, a festive green pine garland hangs in a graceful arc, decorated with small red berries and soft, glowing fairy lights. A large, elegant red bow with gold trim is prominently featured at the center of the garland.\n\nHanging from the garland are three personalized Christmas stockings. The first stocking on the left is a {argument name=\"Stocking 1 Pattern\" default=\"red tartan plaid\"}, with the name {argument name=\"Name 1\" default=\"Mum\"} on its white cuff. The middle stocking, directly below the bow, is a {argument name=\"Stocking 2 Pattern\" default=\"green tartan plaid\"}, with the name {argument name=\"Name 2\" default=\"Liam\"} on its white cuff. The third stocking on the right is {argument name=\"Stocking 3 Pattern\" default=\"red with white snowflakes\"}, with the name {argument name=\"Name 3\" default=\"Dad\"} on its white cuff. The names are written in a simple black font.\n\nBelow the illustration, the greeting {argument name=\"Greeting Text\" default=\"Merry Christmas\"} is written in a beautiful, flowing red cursive script.\n\nThe overall design is a flat 2D illustration, with a balanced and centered composition. The image should be presented as a front-facing view of the card design, filling the entire frame. High resolution, perfect for printing. Aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593045717_74y014_1765542669780-e6yg40-NIzLsyns9ZwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 62,
+      "title": "Vintage Disney Characters Christmas",
+      "description": "A cheerful vintage-style illustration of Mickey, Minnie, and friends gathering around a Christmas tree. With a bright green background and customizable text, it's a nostalgic and festive holiday card.",
+      "content": "An exquisite, printable Christmas greeting card featuring classic Disney characters in a vintage 2D illustration style, aspect ratio 1:1.4. The overall mood is cheerful and festive.\n\nThe scene is set against a vibrant bright green background, lightly speckled with shimmering gold glitter. In the center stands a lush Christmas tree decorated with colorful ornaments and topped with a large, shining gold glitter star.\n\nA group of beloved Disney characters, all dressed in Santa Claus outfits with red suits and hats trimmed in white fur, are gathered around the tree. At the top left, Goofy peeks out from behind the tree, waving happily. On the upper right, Donald Duck excitedly holds a wrapped gift.\n\nIn the foreground at the bottom, Minnie Mouse stands on the left, wearing a Santa dress with a holly accent, striking a sweet, shy pose. In the center, a large red Santa's sack overflows with presents, and a joyful Pluto sits inside it, looking up at Mickey Mouse. To the right, Mickey Mouse laughs heartily, his hands on the sack.\n\nAt the very bottom of the card, there is festive text in a bold, red, sans-serif font. The first line reads {argument name=\"Top Text\" default=\"CAROLS and PRESENTS\"}, and the second line reads {argument name=\"Bottom Text\" default=\"and TREATS by the TON!\"}.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593046320_f8t0xs_2653f2d12a0fd43af21f5f4111666d46beffc9cb48ba93e5e2a67cfaa56dcbe7"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 63,
+      "title": "Victorian Die-Cut Floral Bouquet",
+      "description": "An intricate design simulating a Victorian die-cut scrap, featuring a lush bouquet of poinsettias and roses. It includes a customizable antique tag, creating a detailed and elegant floral card.",
+      "content": "A beautiful, printable vintage Victorian Christmas card illustration, designed as an intricate die-cut shape. The artwork features a lush, layered bouquet of festive flowers with a classic, elegant feel.\n\nA large, vibrant red poinsettia with delicate gold foil outlines dominates the upper part of the composition. Below it to the left rests an elegant, creamy-white poinsettia, also detailed with gold outlines and a beaded center. A rich, dark red rose with fine gold-lined petals is nestled on the right.\n\nThe arrangement is filled out with deep green holly leaves, small clusters of bright red holly berries, and sprigs of pale green mistletoe, creating a full and festive look. The overall effect is of layered, embossed papercraft with subtle shadows that give it a gentle depth.\n\nIn the bottom right, a small, decorative antique paper tag is tucked into the bouquet, displaying the text: {argument name=\"greeting\" default=\"Wish you a merry Christmas\"} in ornate, multi-colored calligraphy.\n\nThe entire image is a flat, front-facing view, exquisitely detailed and perfect for printing. Aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593039823_ysma92_1765542617561-k3rnpl-H_2UVTFoo1XYAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 64,
+      "title": "Cozy Watercolor Christmas Living Room",
+      "description": "A light and airy watercolor painting of a festive living room, featuring a roaring fireplace, a decorated tree, and soft light. The warm atmosphere makes it a perfect cozy holiday card.",
+      "content": "A beautiful, printable watercolor illustration of a cozy and bright Christmas living room. The scene features a classic white fireplace on the right with a warm, roaring fire. The mantelpiece is elegantly decorated with a lush pine garland, red berries, and a festive wreath. Next to the fireplace and by a large, arched window on the left, stand small, charming Christmas trees. Soft, bright daylight streams through the window. The foreground shows a hint of a wooden chair and a soft red rug on the warm-toned floor.\n\nThe overall style is light and airy, with a soft color palette of yellows, greens, and reds, painted with delicate, expressive watercolor strokes on textured paper.\n\n--ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593038824_zec12n_1765542600738-zq1r45-AK98dnAX3e_JAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 65,
+      "title": "Musical Note Christmas Tree",
+      "description": "A sophisticated monochrome design featuring a Christmas tree shape formed by scattered musical notes and staves. Minimalist and elegant, it includes customizable flowing black script text.",
+      "content": "A beautifully designed, printable Christmas card with a minimalist and elegant aesthetic, presented in a frontal view.\n\nThe main feature is a Christmas tree creatively formed from an assortment of black musical notes and symbols. The notes, including treble clefs, quarter notes, and eighth notes, are artfully scattered to create the triangular silhouette of the tree. Wavy, horizontal music staff lines are draped across the tree like festive garlands, with more notes arranged along them. A single, solid black star sits at the very peak of the tree.\n\nThe entire design is set against a high-quality, off-white paper background with a subtle, fine linen texture.\n\nCentered at the bottom, below the tree, the greeting {argument name=\"text\" default=\"Merry Christmas\"} is written in a graceful, flowing black cursive font.\n\nThe overall style is a clean, monochrome, flat 2D graphic illustration, with a high-resolution, print-ready quality. The composition is centered to fit a 1:1.4 aspect ratio.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593037232_d6xb6p_1765542634624-2i1jqn-P7zh_fhJApviAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 66,
+      "title": "1950s Vintage Holly Wreath",
+      "description": "A classic 1950s-style illustration of a glowing holly wreath with red berries. It features customizable script text in the corners and on a gift tag, evoking mid-century holiday charm.",
+      "content": "An exquisite, printable vintage 1950s Christmas greeting card, presented on a flat, off-white cream paper background, viewed front-on.\n\nThe card features a central, lush illustration of a holly wreath with vibrant red berries and rich, dark green spiky leaves. The artwork is a classic mid-century print illustration with clean lines and soft shading, with a subtle warm glow from behind the holly.\n\nIn the top corners, elegant red cursive script reads {argument name=\"Top Left Text\" default=\"Christmas\"} and {argument name=\"Top Right Text\" default=\"Greetings\"}.\n\nA small white paper tag with a decorative scalloped edge is nestled among the lower leaves, attached with a simple, bright red satin bow. The tag features the message in the same red script: {argument name=\"Tag Text\" default=\"AND Best Wishes FOR YOU\"}.\n\nFlat 2D graphic design, high resolution. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765593009078_2hpoee_1765542544921-6hp433-wAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 67,
+      "title": "Mid-Century Flocked Tree on Blue",
+      "description": "A retro gouache-style illustration of a flocked white Christmas tree on a dusty blue background. Adorned with classic ornaments and musical notes, it includes customizable text on a bauble.",
+      "content": "A vintage mid-century modern Christmas card illustration featuring a stylized, flocked white Christmas tree. The tree is centered against a textured, dusty blue background with gentle falling snow.\n\nThe tree is adorned with an array of classic ornaments: round baubles in festive red and blue, sparkling gold glitter ornaments, and red-and-white striped candy canes. Each ornament hangs from a small, simple black bow. A whimsical, flowing ribbon of golden musical staff with notes gracefully swirls around the tree from top to bottom. One of the blue ornaments can feature the text {argument name='greeting' default='Happy Holidays'}.\n\nAt the base, the tree stands in a dark blue decorative pot with a gold zig-zag pattern. The artwork has a painterly, gouache-on-paper texture with a retro color palette.\n\nExquisite and printable design, flat graphic illustration, front view. Aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592999130_ksg9p1_1765542580884-7fkn3l-AphgXFFaoQAvAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 68,
+      "title": "Folk Art Stockings for Special Relative",
+      "description": "A detailed flat design featuring patterned folk art stockings with gold accents. This card is perfect for personalized greetings, with customizable fields for recipient names (e.g., \"Niece\").",
+      "content": "A high-quality, printable Christmas greeting card illustration in a charming, whimsical flat design, aspect ratio 1:1.4.\n\nThe scene features three decorative Christmas stockings hanging in a slight diagonal line from the top against a clean off-white background. Each stocking is uniquely decorated with folk art and retro-inspired patterns, using a festive color palette of red, dark green, pink, teal, blue, and gold. The stockings have prominent gold glitter accents along their edges and on some patterns, giving them a sparkling, textured feel.\n\nSmall, stylized robins with red breasts are perched on the cuffs of the stockings, which are filled with small, wrapped gift boxes. Hanging from the top are decorative elements like strings of colorful beads, diamond-shaped garlands, and a single pink retro bauble.\n\nThe background is sprinkled with gold foil dots and starbursts, creating a magical, confetti-like atmosphere.\n\nAt the bottom of the card, the text is displayed. The phrase \"{argument name=\"greeting line 1\" default=\"To a\"}\" is in a delicate black script. Below it, the main greeting \"{argument name=\"greeting line 2\" default=\"WONDERFUL NIECE\"}\" is in a large, stylized, uppercase font. The word \"WONDERFUL\" is rendered in a gold foil effect, while the word \"NIECE\" has each letter filled with a different solid color from the card's palette.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592989216_tskheg_1765542569050-rot9pt-PWJ6Zo7l3Ulb9f4odDM5cIyQUAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 69,
+      "title": "Minimalist Rainbow Brushstroke Tree",
+      "description": "A modern, artistic Christmas card design featuring a stylized tree made of colorful rainbow paint brushstrokes. The minimalist aesthetic is complemented by customizable elegant black script.",
+      "content": "A minimalist and artistic Christmas card design featuring a stylized Christmas tree on a solid white background. The tree is formed by expressive, textured, painterly brushstrokes arranged in horizontal bands of rainbow colors, starting with red at the top, followed by orange, yellow, green, blue, and purple at the base. A simple, solid red star sits on top of the tree.\n\nBelow the tree, the text '{argument name=\"text\" default=\"Merry Christmas\"}' is written in a delicate, elegant black cursive script. The overall aesthetic is modern, clean, and festive. High-quality printable illustration, flat design. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592987661_27lzsw_1765542374600-8h6m81-RrlhNijA70AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 70,
+      "title": "Van Gogh Starry Night Christmas",
+      "description": "An expressive impasto painting blending Van Gogh's \"Starry Night\" style with a Christmas village and tree scene. The dynamic swirls and vibrant colors create a stunning, artistic holiday image.",
+      "content": "A beautiful Christmas painting in the style of Vincent van Gogh's \"The Starry Night\".\n\nIn the foreground on the left, a large, magnificent green Christmas tree is decorated with an array of glowing, colorful lights and topped with a shining star.\nTo the right, a quaint and cozy village with a prominent church steeple is nestled amongst dark, rolling hills. The small houses glow with warm lights from their windows and are draped in festive decorations.\nThe sky above is a dramatic, swirling vortex of deep blues, cyans, and whites, filled with luminous yellow stars that have radiant halos. A large, brilliant Star of Bethlehem shines brightly in the upper right corner, casting a golden light.\n\nThe entire scene is rendered with thick, expressive impasto brushstrokes, creating a sense of dynamic movement and rich texture.\nVibrant colors, highly detailed, exquisite, printable quality. --ar 5:7",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592985142_4jtzg0_1765542529122-9muc16-01RjH1IaRuHRCGa4beHS27p188f__PvjIZmc445BgJRIERXA4qsRgbMMeW8MfPl8vAPW_ZKuFK4a0YAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 71,
+      "title": "Peanuts Style Snoopy and Stockings",
+      "description": "A playful, cartoon-style card inspired by Peanuts, featuring Snoopy, Woodstock, and colorful stockings. The design includes a customizable joke or message field, perfect for a fun holiday greeting.",
+      "content": "An exquisite, printable Christmas greeting card illustration in the charming, flat 2D style of Peanuts, with a 1:1.4 aspect ratio. The entire scene is presented from a frontal view against a soft cream-colored background with a subtle paper texture.\n\nOn the right, a cheerful Snoopy peeks out from a large Christmas stocking. The stocking is teal with a darker teal diamond pattern and has a bright lime green cuff, heel, and toe. Snoopy is holding a red and white striped candy cane. To his left hangs a smaller, red Christmas stocking with a pink diamond pattern, from which a slightly frazzled Woodstock is peeking out, with another candy cane next to him.\n\nIn the top left corner, whimsical, multi-colored, hand-drawn text reads: {argument name=\"joke setup\" default=\"WHAT DID ONE CHRISTMAS STOCKING SAY TO THE OTHER?\"}. The text is surrounded by simple, colorful starbursts.\n\nThe bottom of the card features a large, stylized lime green Christmas tree on the left, and a collection of brightly colored gift boxes in pink, green, and teal. On the far right at the bottom, there is a row of three small, simple teal Christmas tree shapes. The entire illustration uses a festive and bright color palette of red, pink, lime green, and teal.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592977782_0su17t_1765542508346-8s37c3-w8ZRSTs7Z3ESFgo7oeZjLR6hSJUqHlL0QJG6DWGoTkfW44Ao6uSdiNBdCJAepYpy_QbRTNAZEEnYwitiNSidLhsacwS32FWbCDGoMLk0e6V4vT0f4Envx3UWVpzAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 72,
+      "title": "Whimsical Watercolor Stocking Garland",
+      "description": "A cute, naive-style watercolor illustration of mismatched socks hanging from a pine garland. The whimsical design on pink paper includes customizable classic serif text for a cheerful greeting.",
+      "content": "A charming, printable greeting card design in a 1:1.4 aspect ratio. The card features a whimsical, hand-drawn watercolor illustration with a naive art style, set against a soft, light pink textured paper background.\n\nStretching horizontally across the upper portion is a delicate green pine needle garland. Six colorful, mismatched socks hang from the garland, each drawn with fine black ink lines and filled with vibrant watercolor. The socks are, from left to right: a red sock with thick white stripes and a tan heel and toe; a white speckled sock with a green toe; a sock with thin brown horizontal stripes and red accents; a vibrant green sock featuring a white Christmas tree silhouette; a simple red sock with a pink toe; and a blue sock adorned with white snowflakes.\n\nBelow the garland, the text '{argument name=\"text\" default=\"Season's Greetings\"}' is centered in a classic red serif font.\n\nThe entire composition is flat, 2D, centered, and viewed from the front, creating an exquisite and cheerful holiday card perfect for printing.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592976461_yne1dh_1765542516355-4kixyb-sG_YqLYRgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 73,
+      "title": "Mid-Century Winter Forest with Lyrics",
+      "description": "A charming mid-century modern graphic illustration of a stylized winter forest in dusty blue and sage. It features a large area designed for customizable holiday lyrics or quotes.",
+      "content": "A beautifully printable Christmas card illustration in a flat, mid-century modern graphic design style.\n\nThe image features a stylized winter forest scene under a gentle snowfall. The background is a light, dusty blue with a subtle speckled texture throughout.\n\nIn the lower two-thirds of the image, there is a dense forest of stylized trees. Some trees are tall, skinny, dark grey triangles with horizontal white lines representing snow on the branches. Interspersed are broader, light sage-green triangular trees, which contain minimalist dark grey trunks and branches adorned with small red berries. The trees are layered, creating a sense of depth in the flat design.\n\nWhite specks representing falling snow are scattered across the entire image, contributing to a vintage, screen-printed texture.\n\nIn the upper left, the text is displayed in a classic, dark grey serif font:\n{argument name=\"text\" default=\"“I'm dreaming of a white Christmas\\nWith every Christmas card I write\\nMay your days be merry and bright\\nAnd may all your Christmases be white”\"}\n\nThe overall aesthetic is charming and nostalgic, using a limited color palette of dusty blue, dark grey, sage green, white, and red.\nHigh resolution, vector art, aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592969327_o1noga_5500c716ff5b3373213f115b469c5e9619836a6009df1fa46c7a5eb8e5bb591e"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 74,
+      "title": "Modern Rainbow Pride Christmas Tree",
+      "description": "A minimalist, inclusive card design featuring a stylized Christmas tree made of rainbow stripes on a navy blue background. Customizable bold yellow text completes the modern festive look.",
+      "content": "A beautiful, printable Christmas card design in a modern, flat graphic style. The card features a textured, deep navy blue background.\n\nCentered on the card is a stylized Christmas tree made of horizontal stripes in the colors of the rainbow pride flag: red, orange, yellow, green, blue, and lavender. The tree is topped with a simple, bright yellow star and has a small brown trunk at its base.\n\nBelow the tree, the message {argument name=\"text\" default=\"MERRY CHRISTMAS TO ALL!\"} is written in a clean, elegant, golden-yellow sans-serif font.\n\nThe overall aesthetic is minimalist, inclusive, and festive. Frontal view of the card cover, high resolution, sharp details. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592968391_h1wmil_1765542470818-v0tcci-wMTBXlF7J168wAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 75,
+      "title": "Flocked Tree with Red Ornaments and Bokeh",
+      "description": "A sophisticated card design featuring a close-up of a flocked white tree with red ornaments. The background is a dreamy monochrome bokeh, highlighting customizable elegant red script.",
+      "content": "An exquisite, printable Christmas card design, frontal view, aspect ratio 1:1.4.\n\nThe composition features a close-up of a heavily flocked Christmas tree on the left side. The branches are covered in thick, soft white artificial snow. The tree is elegantly decorated with a mix of ornaments: glossy metallic red baubles, textured glittery red baubles, and smooth, matte white baubles. A few green pine needles and a small cluster of red berries are visible near the bottom.\n\nThe background on the right is a sophisticated, dark gray monochrome, filled with a beautiful bokeh effect of soft, out-of-focus white lights, creating a dreamy and festive atmosphere. The image uses a selective color style, where only the red ornaments and text are in vibrant color, while the rest of the scene is in shades of white and gray.\n\nOver the bokeh background on the right, the greeting {argument name=\"greeting\" default=\"Merry Christmas\"} is written in an elegant, flowing red script font, perfectly matching the color of the ornaments. The overall aesthetic is modern, clean, and sophisticated.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592958339_2mo1ag_1765542445804-u8lgqn-qAAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 76,
+      "title": "Luxurious Burgundy and Gold Botanical Tree",
+      "description": "A classic, detailed illustration of a lush botanical tree in a gold pot on a burgundy background. It features a gold foil band and customizable elegant gold text for a luxurious feel.",
+      "content": "A printable, exquisitely detailed Christmas greeting card design, aspect ratio 1:1.4.\n\nThe illustration features a stylized Christmas tree arrangement against a rich, festive background. On the left side of the card is a wide vertical band of textured gold foil. The tree itself is a lush composition of winter botanicals, including deep green holly leaves, teal-colored foliage, and delicate pine needles detailed with shimmering gold line work and texture. Bright red berries are scattered throughout the greenery. The arrangement sits in a textured gold pot.\n\nThe main background is a deep burgundy red with a subtle texture, adorned with faint, darker snowflake patterns. A delicate flurry of white specks, like falling snow, covers the entire scene. At the bottom, the text '{argument name=\"text\" default=\"Season's Greetings\"}' is written in an elegant, light gold cursive font.\n\nThe overall style is classic, luxurious, and highly detailed. Flat 2D graphic illustration.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592959903_npl9ef_79dd7465f580906c9c4ee4576bc49dbad191fd4d294a69b64af15a31b53d186d"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 77,
+      "title": "Luxurious Black and Gold Abstract Tree",
+      "description": "A high-contrast, luxurious Christmas card featuring an abstract tree made of gold glitter and confetti strokes on a deep black background. Customizable gold typography adds an elegant finish.",
+      "content": "An exquisite, printable Christmas greeting card design, featuring a modern, minimalist aesthetic on a solid, deep black background.\n\nThe central focus is an abstract Christmas tree, artfully rendered with loose, calligraphic strokes made of sparkling faux gold glitter and shimmering confetti.\n\nBeneath the tree, the greeting '{argument name=\"greeting\" default=\"Merry Christmas\"}' is written in elegant, thin gold lettering. The word \"MERRY\" is in a simple, small, uppercase font, and \"Christmas\" is in a beautiful, flowing script.\n\nThe overall design is high-contrast, luxurious, and clean. High resolution, flat graphic design. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592945967_drszok_1765542420578-g6j4ge-8TZicKWTDwL92kHDcOn7kwnxwUmP_9ylcOIqrOoaKzA0QAeXRhrCmG5wQhXKZCkATu7UzMCYd1dAF_yRM29x8TLlQB3_GehQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 78,
+      "title": "Corporate Typography Tree",
+      "description": "A professional and minimalist holiday card where the Christmas tree shape is formed entirely by a customizable calligraphic quote. Includes space for a company signature on a burgundy background.",
+      "content": "An exquisite, printable corporate holiday card design with a modern, minimalist aesthetic, presented as a flat graphic with a 1:1.4 aspect ratio.\n\nThe background is a solid, deep burgundy red with a subtle matte paper texture.\n\nThe central focus is a Christmas tree shape created entirely from typography. The phrase '{argument name=\"Holiday Greeting\" default=\"May Your Days Be Merry and Bright\"}' is rendered in a whimsical, white, hand-lettered calligraphy script. The words are artfully arranged to form the tree's silhouette, with \"Your,\" \"Merry,\" and \"Bright\" being the most prominent.\n\nSmall white stars are scattered within and around the text, enhancing the festive tree shape and adding a touch of sparkle. A single, larger white star sits at the very top as a tree topper.\n\nBelow the tree, centered at the bottom, is custom text in a clean, simple, white sans-serif font. It reads: '{argument name=\"Closing\" default=\"from all of us at,\"}' on the first line, and '{argument name=\"Company Name\" default=\"GRIFFON FINANCE CORPORATION\"}' on the second line.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592937808_b6mopf_1765542401375-e28zrs-6vwLENaFWld91AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 79,
+      "title": "Rustic Hand-Drawn Pine Wreath",
+      "description": "A clean, rustic card design featuring a sketchy pine wreath with ribbons on a cream textured background. It frames bold red customizable text, creating a simple and heartwarming holiday look.",
+      "content": "A beautiful printable Christmas and New Year greeting card in a charming, hand-drawn rustic illustration style, high resolution, 1:1.4 aspect ratio.\n\nThe design is set against a light cream-colored background with a subtle, speckled paper texture giving it a vintage feel. A festive wreath made of sketchy, hand-drawn pine branches in shades of dark green forms an open circular frame. Woven through the pine branches are elegant white ribbons with thin red outlines, and small, solid red holly berries are scattered amongst the leaves. A large, beautifully tied bow, matching the ribbon style, sits at the bottom center of the composition.\n\nIn the center of the wreath, the greeting {argument name=\"Main Greeting\" default=\"Merry Christmas\"} is written in a large, flowing red cursive script. Below this, the word {argument name=\"Connector\" default=\"AND\"} is centered between two thin red horizontal lines in a clean, uppercase sans-serif font. The final message, {argument name=\"Secondary Greeting\" default=\"HAPPY NEW YEAR!\"}, is written below in the same red sans-serif font.\n\nThe overall aesthetic is clean, festive, and heartwarming with a flat, graphic illustration quality.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592935929_kietrh_1765542362571-h79b15-vBi8dcbQcrwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 80,
+      "title": "Retro 1950s Christmas City Street",
+      "description": "A vibrant 1950s graphic illustration of a busy, snowy city street at night. It captures the retro holiday spirit with shoppers, vintage cars, and multiple customizable neon signs.",
+      "content": "A vibrant and exquisite 1950s retro Christmas card illustration in a flat graphic style. The scene depicts a bustling city street at night, with a light dusting of snow on the ground and gentle snowflakes falling. In the background, a row of mid-century and Art Deco buildings glow with colorful, festive neon signs for a '{argument name=\"Department Store Name\" default=\"Kringle's\"} DEPARTMENT STORE', '{argument name=\"Diner Name\" default=\"Starlight DINER\"}', a theater named '{argument name=\"Theater Name\" default=\"COMET\"}', and a shop called '{argument name=\"Fashion Store Name\" default=\"Hollys\"}'. The department store features a large display window with a decorated white Christmas tree surrounded by toys.\n\nThe sidewalks are filled with cheerful shoppers in 1950s winter fashion, carrying gifts and shopping bags. In the upper right sky, a large, glowing full moon shines as Santa's sleigh and reindeer fly past in silhouette.\n\nIn the foreground, a classic red and cream 1950s station wagon is parked, its interior filled with colorfully wrapped presents. A couple with two small black dogs walks on the sidewalk, holding more gifts. Further down the street, a yellow taxi carries a Christmas tree on its roof. On the right, a red A-frame sign on the sidewalk displays the message '{argument name=\"Holiday Message\" default=\"Happy HOLIDAYS\"}'. The overall atmosphere is festive and nostalgic, with a rich color palette of deep blues, reds, and greens. Printable quality, aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592826144_0mkdg6_1765542397083-3juc69-f_D5WBQ9VSVlwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 81,
+      "title": "Victorian Santa on Rooftop Balcony",
+      "description": "A nostalgic, highly detailed Victorian illustration of Santa overlooking a village from a snowy balcony. It features the textured feel of a chromolithograph print with customizable text formed from snow.",
+      "content": "A vintage Victorian Christmas card illustration featuring a cheerful Santa Claus on a snowy rooftop balcony at night, overlooking a quaint village. Santa is a portly figure with a full white beard and rosy cheeks, dressed in a classic red suit with white fur trim and a black belt. He is blowing a small brass horn and holding a dark wooden walking stick.\n\nA large wicker basket filled with old-fashioned toys, including a small fir tree and a drum, is visible on his back. To the left, part of a large clock tower face with Roman numerals is seen. Santa stands behind an ornate, snow-covered stone balustrade with intricate gothic carvings.\n\nIn the background, the cozy village has steep, snow-covered roofs and windows glowing with warm light. The night sky is a deep blue, with soft, heavy snowfall covering the entire scene.\n\nAt the top, the greeting {argument name=\"text\" default=\"Merry Christmas\"} is written in a decorative, vintage font, appearing as if formed from snow on a dark eave.\n\nThe artwork has the textured feel of a classic chromolithograph print on aged paper, with a rich, slightly faded color palette. The style is nostalgic, festive, and magical.\n\nExquisite and highly detailed, printable quality, aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592824408_kl8szx_1765542324651-fwy9i2-AfKL2j5rbHPuAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 82,
+      "title": "Layered Papercraft Cutout Tree",
+      "description": "A clean graphic design simulating layered paper cutouts, featuring a tree with various patterns on a red background. The drop shadows and customizable white script give it a charming handmade feel.",
+      "content": "An exquisite, printable Christmas greeting card design in a layered papercraft and die-cut style, presented in a 1:1.4 aspect ratio. The card features a vibrant red textured paper background with faint, soft-edged light red polka dots.\n\nIn the center, a stylized Christmas tree is created as a cutout, revealing different green patterned layers beneath. The tree is composed of four stacked sections, topped with a simple yellow star. From top to bottom, the green sections have different designs: solid light green, medium green with white polka dots, medium green with white dashed stitch lines, and darker green with white wavy lines.\n\nFlanking the middle of the tree are two intricate, white, die-cut snowflakes with a subtle drop shadow. The top and bottom borders of the card are adorned with elegant white paper cutout swirls and filigree, creating a decorative frame.\n\nAt the bottom, the text {argument name=\"text\" default=\"Merry Christmas\"} is written in a beautiful white script font, also designed with a cutout effect and a slight shadow to give it depth. The entire composition is clean and graphic, with a charming handmade feel due to the layered paper effect.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592823023_rkn1cr_1765542299418-37oz3c-AReqlc39mWICAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 83,
+      "title": "Cute Doodle Reindeer Face",
+      "description": "A simple, whimsical hand-drawn doodle of a reindeer face with a red nose, set on striped paper. The clean vector style and customizable friendly red script make it a perfect casual holiday card.",
+      "content": "A beautiful, printable Christmas greeting card design in a flat, frontal view. The illustration is in a charming hand-drawn doodle style, featuring thick black outlines and a simple, festive color palette.\n\nCentered in the bottom half is the head of a cute cartoon reindeer with simple antlers and a prominent, bright red nose.\nAbove the reindeer, the words {argument name=\"text\" default=\"Merry Christmas\"} are written in a friendly, red, handwritten script.\nThe background is an off-white paper texture with a subtle pattern of thin, diagonal beige stripes.\n\nThe overall aesthetic is clean, whimsical, and perfect for a holiday card. High quality 2D vector art with a matte finish. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592818555_5sl36y_1765542300529-6vs4ld-wcyL4UcEaKzawAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 84,
+      "title": "Vintage Sledding Children",
+      "description": "A classic chromolithograph style illustration of joyful children sledding down a hill. Enhanced with gold foil details and customizable vintage lettering, it captures the warmth of a traditional Christmas.",
+      "content": "A beautiful and printable vintage Christmas postcard in a classic chromolithograph illustration style, aspect ratio 1:1.4.\n\nThe scene features two joyful children, a boy and a girl, sledding together down a gentle, snow-covered hill. The boy in front, wearing a red pointed hat and a white patterned shirt, steers a traditional wooden sled with ornate, curved runners. The blonde girl sits behind him, wearing a white dotted bonnet, a red jacket, and a purple skirt, smiling warmly as she holds on.\n\nThe background shows a quaint winter forest with snow-dusted trees. The foreground includes the corner of a rustic log structure on the right and soft snow with sled tracks. The entire illustration has a nostalgic, warm feel, with delicate gold foil accents on the children's clothing and the sled.\n\nAt the bottom, elegant gold cursive lettering reads {argument name='text' default='Fröhliche Weihnachten'}.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592816051_08ao6k_1765542268438-krazp8-AyrUskZO9n0fAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 85,
+      "title": "Humorous Santa on North Pole Sign",
+      "description": "A funny cartoon card featuring Santa Claus playfully clinging to a candy cane North Pole sign. It includes a customizable stacked text layout perfect for jokes or witty holiday messages.",
+      "content": "A high-resolution, printable, humorous Christmas greeting card design in a 1:1.4 aspect ratio, created in a flat digital illustration style.\n\nThe scene features a cheeky cartoon Santa Claus playfully clinging to a red-and-white striped candy cane pole, which stands in a snowy landscape. Santa is smiling and winking, wearing his classic red suit, hat, and black boots. At the top of the pole is a small wooden sign pointing left with the words \"NORTH POLE\".\n\nThe background is a vibrant teal-blue sky with soft, falling snow particles creating a wintery feel. The ground is covered in simple mounds of white snow with light blue shading.\n\nOn the left side of the card, text is arranged vertically. At the top, in a simple black sans-serif font, are the words \"{argument name=\"top text\" default=\"I got\"}\". Below this, the phrase \"{argument name=\"colorful phrase\" default=\"Ho Ho Ho's\"}\" is written in a playful, bold font with each word in a different color. Underneath, the final part of the phrase, \"{argument name=\"bottom text\" default=\"In Different Area Codes\"}\", is stacked vertically in the same black font as the top line.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592812785_bu8a33_1765542249246-wz7pro-H8QUlvX07fF0AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 86,
+      "title": "Retro Mid-Century Lights and Garland",
+      "description": "A clean, flat vector design with a cream background, featuring vintage lights, a holly garland, and customizable bold retro typography. It exudes a charming, nostalgic mid-century vibe.",
+      "content": "A beautiful, printable retro holiday greeting card illustration with a 1:1.4 aspect ratio. The design features a flat, solid cream-colored background.\n\nAcross the top hangs a festive green holly garland with red berries and a large red bow tied in the center. A string of colorful, vintage-style Christmas lights in red, golden yellow, and green dangles from the garland on a thin black wire.\n\nIn the center of the card, the text {argument name=\"main text\" default=\"HAPPY HOLIDAYS\"} is displayed in a bold, classic red serif font, decorated with whimsical teal mid-century modern style starbursts on either side.\n\nBeneath this, the message {argument name=\"sub-text\" default=\"WE WISH YOU AND THE WORLD PEACE AND LOVE THIS HOLIDAY SEASON.\"} is written in a simple, clean black sans-serif font.\n\nThe overall aesthetic is clean, graphic, and charmingly nostalgic, in a flat vector art style.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592809674_2qbvqe_1765542219701-e2i82o-idwAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 87,
+      "title": "Vintage Shushing Santa at Night",
+      "description": "A classic painterly illustration of Santa Claus shushing with a finger to his lips in a snowy village night. This nostalgic vintage-style card features customizable elegant script text.",
+      "content": "A beautiful, printable vintage Christmas card illustration in a classic, painterly style, aspect ratio 1:1.4.\n\nThe scene depicts a magical winter night in a quaint village. A jolly Santa Claus is the central figure, dressed in his traditional red suit with white fur trim, shushing with a finger to his lips. He carries a large green sack filled with presents over his shoulder.\n\nTo his left, a cheerful snowman with a carrot nose, a red scarf, and a small hat stands beside an ornate, old-fashioned lamppost. The lamppost is lit, casting a warm, golden glow on the snow, and is decorated with a festive wreath and a large red bow. A small, wrapped gift sits in the snow at the base of the snowman.\n\nHeavy, soft snowflakes fall from a deep blue night sky, blanketing the scene and the village houses in the background, whose windows glow warmly. The overall atmosphere is peaceful, nostalgic, and full of holiday spirit.\n\nIn the upper right corner, the text is written in an elegant, white cursive script: {argument name=\"Text\" default=\"Happy Holidays\"}.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592809225_takkav_1765542236803-gmptjv-HzE4UxwFknvYg6v8DEruQy9E4moMAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 88,
+      "title": "Whimsical Woodland Animal Gathering",
+      "description": "A storybook-style watercolor illustration of forest animals gathering around a decorated tree in the snow. Featuring bears, deer, and birds in festive attire, it includes customizable text for a charming greeting.",
+      "content": "An exquisite and printable watercolor illustration for a holiday greeting card, aspect ratio 1:1.4. The style is charming, whimsical, and storybook-like, with a soft, gentle color palette.\n\nThe scene depicts a cheerful gathering of forest animals in a snowy winter woodland during a light snowfall. In the center, a beautifully decorated Christmas tree is adorned with red ornaments, snowflake cutouts, cookie stars, pinecones, and a rustic twig star on top.\n\nA large black bear, wearing a Santa hat and a cozy red scarf, stands on its hind legs admiring the tree. A small bear cub next to it, wearing a green scarf, waves joyfully. To the left, a graceful doe wears a holly wreath with a large red and white striped bow, and a tiny, cute white owl with a red scarf sits on her back. In front of them, a small fawn with a Santa hat lies peacefully in the snow.\n\nTo the right, another large black bear with a Santa hat and a festive evergreen wreath around its neck walks forward, carrying a small cub in a red knitted hat on its back. The foreground features an adorable raccoon in a Santa hat holding a snowflake, a squirrel, a quail, and several bright red cardinals.\n\nThe background consists of soft, muted evergreen and bare birch trees, where more birds, including owls in festive scarves and cardinals, are perched on the branches. The entire scene has a soft watercolor texture on paper.\n\nIn the top left corner, the text '{argument name=\"text\" default=\"Happy Holidays!\"}' is written in an elegant, flowing red cursive script.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592807012_0ja9b3_1765542179910-0b65jf-w92tUFxbY24xQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 89,
+      "title": "Magical Glowing Forest and Snowman",
+      "description": "A photorealistic yet whimsical winter night scene featuring a snowman and a brightly lit Christmas tree in a snowy forest. The magical glow and customizable elegant text make it an enchanting holiday card.",
+      "content": "A beautiful, printable holiday greeting card design, aspect ratio 1:1.4.\n\nA magical winter night scene in a deep, snowy forest. On the left, a charming snowman with a carrot nose, wearing a black top hat and a colorful plaid scarf, gazes towards a brightly lit Christmas tree on the right. The evergreen tree is laden with snow and adorned with vibrant, glowing multicolor Christmas lights that cast a warm, colorful glow on the surrounding soft, powdery snow. A luminous, multi-pointed star shines brightly at the top of the tree.\n\nThe atmosphere is serene and enchanting, with a deep blue and purple color palette. The background of snow-covered pines is softly out of focus. In the upper left, the text '{argument name=\"Text\" default=\"Happy Holidays\"}' is written in an elegant, flowing white script. The entire image is enclosed by a thick navy blue border with a delicate white inner line.\n\nPhotorealistic with a whimsical touch, high detail, magical glow.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592800099_2g273a_1765542145780-hyyjve-x_ILP2DlhHepgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 90,
+      "title": "Mid-Century Modern Homecoming",
+      "description": "A nostalgic, gouache-style mid-century illustration of a family arriving at a cozy home in a snowy village. The scene captures the warmth of holiday gatherings, with customizable script in the sky.",
+      "content": "A beautiful and printable mid-century modern Christmas card illustration, depicting a heartwarming, snowy nighttime village scene from a high angle.\n\nA family arrives home for the holidays in a classic 1950s retro red station wagon, its headlights casting a warm glow on the snow. People are joyfully greeting each other outside a cozy, yellow two-story house with a snow-blanketed roof and a smoking red brick chimney. The house's windows are cheerfully lit from within, adorned with small wreaths.\n\nTo the left, a large outdoor Christmas tree is decorated with colorful ornaments and a glowing star on top, surrounded by smaller snow-dusted evergreens. In the distance, under a deep blue starry sky, are other simple houses on a snowy hill. The foreground is framed by the dark, silhouetted branches of bare winter trees where a few small birds are perched.\n\nElegant white cursive script in the sky reads {argument name=\"Text\" default=\"Season's Greetings\"}.\n\nThe style is stylized and nostalgic, with the clean, graphic feel of a vintage gouache or screen print. The color palette is rich with deep blues, vibrant reds, and warm yellows.\n\n--ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592799442_ayf68e_1765542166245-iospf6-qPegAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 91,
+      "title": "Modern Scandinavian Folk Art Reindeer",
+      "description": "A vibrant, flat vector illustration in Scandinavian folk art style. It features a patterned reindeer and teal tree with customizable playful text, creating a whimsical and modern festive look.",
+      "content": "A whimsical and exquisite Christmas card illustration in a modern Scandinavian folk art style, frontal view.\n\nThe design features a highly stylized reindeer on a plain, off-white background. The reindeer's body is a canvas of intricate and colorful patterns in dark blue, red, orange, and teal. A small, charming folk art bird is perched on the reindeer's back. The reindeer's large, dark blue antlers are whimsically decorated with colorful hanging Christmas baubles and ornaments.\n\nTo the right of the reindeer stands a simple, geometric teal Christmas tree, adorned with a simple pattern.\n\nAt the bottom of the card, the greeting {argument name=\"text\" default=\"MERRY CHRISTMAS\"} is written in a playful, hand-drawn sans-serif font, with each letter in a different vibrant color.\n\nThe overall aesthetic is a flat vector illustration with bold colors and a subtle screen print texture, making it perfect for printing.\n\nExquisite, printable, aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592796680_iqn1qm_1765542149596-ckh1hy-8YlneSGQ8y4AAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 92,
+      "title": "Art Deco Burgundy and Gold Card",
+      "description": "A sophisticated Art Deco graphic design on a rich burgundy background. It features golden arches, geometric hanging ornaments, and customizable elegant script, perfect for a luxurious holiday card.",
+      "content": "A beautifully detailed Christmas greeting card illustration in a flat graphic, Art Deco style. The composition is vertical with a 1:1.4 aspect ratio, perfect for printing.\n\nThe background is a solid, rich burgundy red. A prominent golden arch frames the upper half of the card, decorated with small, scattered golden stars and sparkles. At the apex of the arch is a larger, radiant golden star.\n\nFive vintage-style Christmas ornaments in shades of dark green, cream, and gold hang from the arch by delicate golden threads with bows. Each ornament has a unique shape and intricate geometric pattern.\n\nBelow the hanging ornaments, the greeting {argument name=\"Greeting\" default=\"Merry Christmas\"} is written in an elegant, flowing golden script.\n\nThe entire design is enclosed by a sophisticated double golden line border. The inner border features a repeating pattern of 'x's and dots, with a simple heart outline centered at the bottom. Two golden bells with radiating lines are placed in the top corners of the card. The overall aesthetic is clean, festive, and sophisticated with a metallic gold finish on all line work and text.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592792605_axszaf_7ec6d55483526a0a95cd01d2b94c3cdec9aaf402b02ecd0e779ca444eaf1e93a"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 93,
+      "title": "Vintage Winter Scene with Snowman",
+      "description": "A nostalgic retro greeting card illustration showing children and a snowman in a winter landscape. Framed by a holly border and featuring customizable text, it mimics a classic chromolithograph print.",
+      "content": "A vintage Christmas postcard illustration in a classic chromolithograph print style, featuring a heartwarming winter scene, aspect ratio 1:1.4.\n\nThe entire image is enclosed by a decorative, continuous border of green holly leaves and bright red berries on a slightly aged, off-white paper background.\n\nThe central scene depicts a snowy landscape under a muted teal-blue sky. In the middle, a friendly, lumpy snowman wears a dark, wide-brimmed hat adorned with a holly sprig and has a pipe in its mouth. A young child in a red coat and blue cap playfully peeks from behind the left side of the snowman, holding a snowball.\n\nIn the right foreground, a young boy wearing a brown jacket with a white sailor collar, blue knickers, a vibrant red beret with a pom-pom, and tall brown boots holds a small shovel, looking towards the viewer.\n\nBare, delicate winter trees stand in the background. A small wicker basket filled with holly rests on the snow in the lower left foreground.\n\nAt the top left, elegant cursive script reads {argument name=\"greeting\" default=\"A Merry Christmas\"} in a golden-red hue.\n\nThe overall aesthetic is flat, 2D, charming, and nostalgic, with the stippled texture and color palette of a beautiful, high-quality, printable retro greeting card.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592790638_7ontol_1765542111553-5t9jbu-edjcXpoAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 94,
+      "title": "Victorian Children and Snowman",
+      "description": "A beautifully detailed, aged-paper style Victorian illustration of children playing with a snowman. Customizable gold leaf lettering enhances the nostalgic, chromolithograph feel.",
+      "content": "A vintage Victorian Christmas card illustration in a beautiful chromolithograph style, printable and exquisite, aspect ratio 1:1.4.\n\nThe charming winter scene features two children and a snowman in a snowy garden. In the foreground, a child wearing a red polka-dot coat with a white fur-lined hood bends over a small wooden sled, tucking in a doll wrapped in a green blanket. Standing nearby is a young girl with curly brown hair, dressed in a light blue coat with white fur trim and gold details, and a matching ruffled bonnet. She holds a small evergreen sapling.\n\nBetween them stands a friendly snowman with button eyes, wearing a brown pot for a hat and a gold belt. The background shows a snowy landscape with a large, bare tree trunk on the left and a snow-capped stone gatepost with an ornate iron gate on the right.\n\nThe entire illustration has a soft, stippled texture and a nostalgic, aged paper feel. The color palette is muted with reds, blues, and browns. There are subtle, shimmering gold glitter accents on the tree trunk, clothing details, and the snowman's belt. At the bottom, elegant, cursive gold leaf lettering reads {argument name='text' default='A Merry Christmas'}.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592789470_8rssns_1765542105807-dz3qsz-TMbf8hd9SWAAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 95,
+      "title": "Minimalist Botanical Ink and Watercolor",
+      "description": "A refined card design featuring fine ink lines and watercolor washes of winter botanicals. A central banner displays a customizable modern calligraphy greeting, combining minimalism with handmade charm.",
+      "content": "A printable, exquisite Christmas greeting card design, presented in a frontal view with a 1:1.4 aspect ratio.\n\nThe style is a beautiful, clean blend of minimalist watercolor and fine ink line art on a textured white watercolor paper background. A crisp white banner runs horizontally across the middle, neatly framed by a delicate, light-blue watercolor line above and below. Centered within this banner is the text '{argument name=\"greeting\" default=\"Merry Christmas\"}' in an elegant, modern black calligraphy script.\n\nAbove and below the banner, a light and airy pattern of winter botanicals is scattered. This pattern features delicate branches with leaves in two styles: some are simple black ink outlines, while others are filled with soft, translucent watercolor washes of dusty blue, teal, and periwinkle. Small, vibrant red watercolor dots represent berries, clustered together and accented by tiny, artistic red splatters, giving it a charming handmade quality.\n\nFlat 2D illustration, high resolution, perfect for printing.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592785463_f8lkk7_1765542091337-9mcjhw-wet8OfjJwVYaQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 96,
+      "title": "Vintage Chromolithograph Kittens",
+      "description": "A nostalgic, turn-of-the-century style illustration of fluffy kittens drinking milk. It evokes the charm of a vintage chromolithograph postcard, complete with customizable elegant script.",
+      "content": "An exquisite, printable vintage Christmas postcard illustration in a beautiful turn-of-the-century chromolithograph style. The image features a heartwarming scene of six adorable, fluffy kittens gathered around a large white ceramic bowl of milk on a soft, textured, warm off-white background.\n\nOne brown tabby kitten stands on the left. At the top of the bowl, two more tabby kittens lean over to drink, one with a small yellow ribbon. A dark, almost black kitten with a tiny green ribbon stands on its hind legs to reach the milk. On the right, a tortoiseshell kitten with a big red bow clings to the side of the bowl. At the bottom, a small tabby kitten sits on the floor, watching the others.\n\nThe overall feel is charming and nostalgic, with detailed, painterly fur and gentle shadows. In the top left corner, elegant red cursive script reads {argument name=\"text\" default=\"A Happy Christmas\"}. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592784119_flk6g0_9782a8f77b46bf4dfa39d375b10344bdd52c5eb16b74dddc8c3e50b6783c2888"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 97,
+      "title": "Modern Pointillism Christmas Tree",
+      "description": "A clean, high-resolution vector illustration of a minimalist Christmas tree created using a colorful pointillism dot technique. The simple triangular shape on a white background offers a modern aesthetic.",
+      "content": "A minimalist and modern Christmas greeting card design, presented in a flat, front-on view.\n\nIn the center of the card, on a clean, solid white background, is a stylized Christmas tree. The tree is created using a pointillism technique, composed of small, colorful dots in a festive palette of red, sage green, and dark blue. The dots are arranged to form a simple triangular shape. At the base of the tree is a short, solid dark blue trunk.\n\nThe overall style is clean, graphic, and elegant. This is a high-resolution vector illustration, perfect for printing.\n\nThe design should fill the frame, created at a 1:1.4 aspect ratio.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592783399_a7j64e_1765542042949-zvg56f-cNuwwrPUUdDfVhPWvZrv8FY9hjxelXtmsAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 98,
+      "title": "Watercolor Polar Bear Mother and Cub",
+      "description": "A heartwarming painterly illustration of a mother polar bear and cub under a starry night sky. The soft watercolor textures and gold foil script greeting make it a touching holiday card.",
+      "content": "A beautiful, printable watercolor greeting card illustration, aspect ratio 1:1.4.\nThe scene features a heartwarming moment between a mother polar bear and her cub, sitting together on a bed of clean white snow that covers the bottom of the frame.\nThe bears are rendered in a painterly style with visible brushstrokes, using shades of off-white, cream, and soft grey to create texture and depth.\nThe background is a deep, moody night sky with a rich watercolor wash of emerald green, dark teal, and black.\nScattered across the sky are small, elegant, stylized stars in shimmering gold foil.\nIn the upper left, the words '{argument name=\"greeting\" default=\"merry christmas\"}' are written in a delicate, handwritten gold foil script.\nFlat 2D illustration, charming and artistic, high detail.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592779237_v2m787_1765542028555-12d8cr-B0MUQg24RpjYAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 99,
+      "title": "Kawaii Pink Pig and Gingerbread Doodle",
+      "description": "A bustling, cute doodle art scene featuring a gingerbread house, Santa pigs, and donuts in a pastel winter wonderland. The bold outlines and whimsical characters create a festive and heartwarming atmosphere.",
+      "content": "A beautiful, printable, high-quality kawaii Christmas illustration in a 1:1.4 aspect ratio.\n\nThe scene is a whimsical winter wonderland in a cute doodle art style with bold outlines and a soft pastel color palette. In the center is a detailed gingerbread house covered in snowy white icing. A giant, adorable pink pig in a Santa suit and hat looms playfully behind the house.\n\nIn the snowy foreground, two happy gingerbread men in Santa hats are sitting on large, pink-frosted donuts. A cute snowman with a Santa hat and blue scarf smiles on the left. The snow is decorated with candy canes, a large swirl lollipop, and colorful sprinkles. To the right stands a cheerful Christmas tree.\n\nThe light blue sky is filled with falling snow, and a gingerbread Santa Claus is flying across in his sleigh, pulled by a gingerbread reindeer. The entire scene is bustling with tiny, round pink pigs and cute brown bears, found on the roof, climbing candy canes, and even falling from Santa's sleigh along with little gifts. All characters have simple, joyful expressions and rosy cheeks, creating a festive and heartwarming atmosphere.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592778763_lwypy4_1765542042641-3gjlkd-xepYB8PSJRh2AAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 100,
+      "title": "Polar Bears under Aurora Borealis",
+      "description": "A magical watercolor illustration of a mother polar bear and cub on ice, gazing at the Star of Bethlehem and a vibrant aurora borealis. Features customizable gold cursive text.",
+      "content": "A whimsical and enchanting Christmas card illustration of a mother polar bear and her cub. They are standing on a small, light blue ice floe in the lower-left, gazing up in wonder at the magical night sky.\n\nThe sky is a beautiful, painterly gradient of deep navy blue, vibrant turquoise, and a soft purple aurora borealis effect. It's filled with a large, radiant golden Star of Bethlehem in the upper right, surrounded by smaller golden stars and delicate, white snowflake-like stars.\n\nThe ocean is a dark, deep blue with horizontal brushstrokes and shimmering reflections of starlight at the bottom.\n\nIn the upper left corner, the text {argument name=\"greeting text\" default=\"Merry Christmas\"} is written in an elegant, golden cursive script.\n\nThe artwork is in a charming watercolor and gouache style, with visible textures and a heartwarming feel. High detail, beautiful, print-ready. Aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592777732_ofclmx_1765541986619-wbrl67-1WSmOTNYSHP3n_B0RS8HevqJ_jAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 101,
+      "title": "Trio of Gingerbread Cookies",
+      "description": "A cute flat vector illustration of three gingerbread cookies with different expressions, including one humorous bitten cookie. It includes a customizable text field for a funny holiday message.",
+      "content": "A charming and humorous Christmas card design in a flat vector illustration style. The scene features three cute gingerbread men cookies standing in a horizontal row against a plain white background.\n\nFrom left to right: the first gingerbread cookie is a girl, smiling happily with an open mouth, decorated with two pink heart buttons and a sprig of holly on her head. The middle gingerbread man wears a red Santa hat and a matching red scarf, with green buttons and a cheerful smile. The third gingerbread man has a shocked expression with a round open mouth, wearing a red and green bowtie, with a large bite taken out of his leg and crumbs falling.\n\nBelow the cookies, the text reads {argument name='text' default='HO HO OH ...'} in a simple, handwritten font.\n\nThe design is clean, with bold outlines and a festive color palette of brown, red, green, and pink. Exquisite and printable quality, 1:1.4 aspect ratio.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592774553_atk1mk_ef91621f9f440ff166dfddb639a499df16e62bc38664bd2199b17515f7c26d1a"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 102,
+      "title": "Luxurious Black and Gold Corporate Card",
+      "description": "A sophisticated black and gold glitter card design suitable for corporate greetings. It features cascading snowflakes, elegant typography, and a gold foil block for a customizable company name.",
+      "content": "An elegant and luxurious Christmas and New Year greeting card design, presented as a flat graphic, high resolution and perfect for printing. The design features a deep black background scattered with fine golden glitter dust and soft bokeh lights.\n\nLarge, intricate snowflakes with a sparkling gold glitter texture cascade down from the top of the card, creating a beautiful, festive border. In the center, the text \"merry\" is rendered in a flowing, handwritten gold glitter script, followed by \"CHRISTMAS\" in a bold, embossed gold serif font. Below this, the phrase \"and Happy New Year.\" is written in a delicate, thin gold script.\n\nPositioned towards the bottom is a horizontal rectangular block with a brushed gold foil finish. Inside this block, feature the custom text: {argument name=\"Company Name\" default=\"Crestline ENTERTAINMENT, INC.\"} in a simple black font.\n\nThe overall aesthetic is sophisticated and celebratory, with a strong contrast between the black and the glittering gold. Aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592773477_pgxbcb_1765541986808-spy0km-j9mnICTmBMY6AAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 103,
+      "title": "Watercolor Santa with Copy Space",
+      "description": "A whimsical watercolor illustration of Santa and a Christmas tree with ample copy space on a dreamy abstract background. Ideal for adding custom text or photos to a printable card.",
+      "content": "A beautiful watercolor Christmas illustration, in a whimsical and heartwarming style.\nOn the right side of the frame, a jolly cartoon Santa Claus waves cheerfully, standing in soft snow. Next to him is a tall, festive Christmas tree adorned with glowing lights, colorful baubles, and a shining star on top. Several wrapped gifts in red paper with gold bows sit at the base of the tree.\n\nThe background is a dreamy, abstract watercolor wash, transitioning from a deep teal-blue at the top to a warm, golden glow that radiates from behind the tree. A large, soft, light-colored area is left on the upper left, providing ample copy space.\n\nDelicate snowflakes and soft white dots gently fall throughout the scene, creating a magical, snowy winter atmosphere. The entire artwork has a visible paper texture with soft, blended colors.\n\nHigh resolution, intricate details, printable festive art. --ar 10:14",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592770970_z39jl5_b97d5f2a8fe92307faa69b8726bc5032453a70695c17320dec68f6289e9b9742"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 104,
+      "title": "Minimalist Watercolor Festive Fox",
+      "description": "An elegant, minimalist watercolor portrait of a red fox wearing a festive holly arrangement. Set against a clean white background, it's a sophisticated and artistic choice for a holiday card.",
+      "content": "An exquisite, printable Christmas greeting card design, aspect ratio 1:1.4.\n\nThe card features a beautiful watercolor illustration of a red fox against a clean, solid white background. The fox is the central focus, depicted from the chest up in a seated position, with its head turned slightly to the side, casting a gentle, downward gaze.\n\nThe artwork is rendered in a detailed yet soft watercolor style, capturing the rich texture of the fox's vibrant orange and fluffy white fur. Adorning the fox's head is a delicate festive arrangement of green holly leaves, bright red berries, and miniature pinecones. The overall design is elegant, artistic, and heartwarming, with a clean and minimalist feel that highlights the charm of the illustration.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592770936_wcfbny_2fb3625ac872f7bf4e166c9532dc144305e59a110ee269d5e64815d803c7018f"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 105,
+      "title": "Humorous 'Oh Snap' Gingerbread Man",
+      "description": "A witty, flat vector card illustration of a fallen gingerbread man with a bite taken out of him. It features customizable humorous text like 'Oh, Snap!' for a fun holiday greeting.",
+      "content": "A printable, high-quality holiday greeting card design, aspect ratio 1:1.4.\n\nThe card features a minimalist and humorous illustration on a solid white background. In the center is a cartoon gingerbread man, tilted diagonally as if he's fallen. He has a surprised expression with wide black dot eyes. A large bite is taken out of the side of his head, with small white crumbs visible. The gingerbread man is a warm brown color with a subtle, crackled cookie texture and has one simple red circle for a cheek.\n\nAbove the gingerbread man, the text '{argument name=\"top text\" default=\"Oh, Snap!\"}' is written in a casual, handwritten red font.\nBelow the gingerbread man, the text '{argument name=\"bottom text\" default=\"HAPPY HOLIDAYS\"}' is written in a similar red, all-caps handwritten font.\n\nThe overall style is a clean, flat vector illustration with a playful and witty feel.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592768373_np7l8g_1765541947803-92p7ur-XGiKQIJfcTFJvVlN_yb9PnQJtmq1O_5MbMLOP9f8Y_QUr_nUVuAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 106,
+      "title": "Cute Watercolor Penguins in Snow",
+      "description": "A charming watercolor illustration of two playful baby penguins on a snowy patch against a teal background. Customizable elegant text makes it a sweet and simple holiday card.",
+      "content": "A beautiful, printable Christmas card design, minimalist and charming, with an aspect ratio of 1:1.4.\n\nThe background is a solid, soft, muted teal-blue color.\nAt the bottom of the card, there's a watercolor illustration of two adorable baby penguins standing on a patch of white snow. The penguin on the right is wearing a small red Santa hat with a white trim and pom-pom. The penguin on the left has its flippers spread wide in a joyful gesture, tossing a delicate spray of white snow into the air. The illustration is done in a soft watercolor style, primarily using shades of grey, black, and white, with a touch of red for the hat.\n\nIn the upper-middle area of the card, centered, is the text {argument name=\"text\" default=\"MERRY CHRISTMAS\"} written in a clean, elegant, all-caps serif font.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592766894_qfeqms_1765541948665-yfcx93-6XgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 107,
+      "title": "Scandinavian Navy and Cream Folk Art",
+      "description": "A symmetrical Scandinavian folk art design in navy and cream, featuring stylized reindeer and a Christmas tree surrounded by intricate floral and star patterns. A timeless, high-quality graphic illustration.",
+      "content": "A beautiful, printable Christmas card design in a Scandinavian folk art style, featuring a symmetrical composition. Two stylized, elegant reindeer in a creamy off-white color face each other. Centered between their ornate antlers is a decorated Christmas tree.\n\nThe entire design is set against a solid dark navy blue background. The scene is densely filled with intricate folk art patterns, including cream-white flowers, leafy sprigs, hanging Christmas baubles, and twinkling four-pointed stars.\n\nThe artwork is a flat, 2D vector illustration with clean, crisp lines and a limited two-color palette of navy blue and off-white. The overall aesthetic is charming, festive, and intricate, perfect for a high-quality print. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592764535_b8ztx7_1765541934500-9y5vsr-lhmJ73QiEPsAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 108,
+      "title": "Minimalist Navy String Lights Card",
+      "description": "A minimalist, graphic card design featuring elegant horizontal strings of watercolor lights on a deep navy blue background. Customizable gold cursive text is seamlessly integrated into the pattern.",
+      "content": "A beautiful, printable Christmas greeting card design, aspect ratio 1:1.4.\nThe design features horizontal strings of festive lights against a solid deep navy blue background.\n\nThe Christmas light bulbs have a charming watercolor texture in a palette of bright red, soft pink, and mint green. The strings are a delicate, looping, hand-drawn gold line.\n\nIn the center, the text {argument name=\"text\" default=\"merry christmas\"} is written in a single, elegant, flowing gold cursive script, seamlessly integrated as part of the string light pattern.\n\nThe overall style is flat, graphic, minimalist, and heartwarming.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592763708_cy6p2d_1765541921119-nej1a3-A77zMAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 109,
+      "title": "Funny Injured Gingerbread Man",
+      "description": "A humorous, minimalist card design featuring a cute gingerbread man with a missing leg using a candy cane crutch. Customizable witty text like 'Cheers to surviving the season' adds to the charm.",
+      "content": "A beautiful and funny printable Christmas card design, aspect ratio 1:1.4.\n\nThe card features a clean, minimalist cartoon illustration of a happy gingerbread man, viewed from the front. The gingerbread man is missing one leg and is cheerfully waving with one arm. A red and white striped candy cane is stuck into the white ground where his leg should be, humorously used as a crutch.\n\nThe gingerbread man has a simple smiling face, purple icing buttons, and a wavy white icing line on his chest. Tiny brown cookie crumbs are scattered on the ground near the broken leg stump and the base of the candy cane.\n\nThe illustration is set against a solid white background, with a subtle, soft light-blue watercolor wash just behind the character to make it pop.\n\nBelow the illustration, the phrase {argument name=\"text\" default=\"CHEERS TO SURVIVING THE SEASON\"} is written in a black, quirky, informal, all-caps, hand-lettered font.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592762840_ppjqd2_1765541916471-28b8ke-RE4arCTH7oRNA1IWUwjfNqpdxWKg5Q0RlAwmz9ZlYwUlp5xJqxMBQ1mSXamLpeFrG4xazP6sSg5M9uQoDY6yjMaWK6ryFHliYT2VKvtIdpcONkQ2vjkIaAb5fRn1JMmfnyT4PwJHoSJ84T52AAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 110,
+      "title": "Navy Blue Watercolor String Lights",
+      "description": "A modern graphic card with a cozy hand-painted touch. It features watercolor-textured Christmas lights on a navy background, with customizable elegant gold script text integrated into the design.",
+      "content": "A beautiful, printable Christmas card design with a 1:1.4 aspect ratio.\n\nThe card features a solid deep navy blue background, creating a night-sky feel. It's decorated with a pattern of multiple horizontal, wavy strings of Christmas lights. The strings themselves are a delicate, thin gold line.\n\nThe light bulbs have a charming watercolor texture in festive shades of red, pink, and mint green, arranged alternately along the strings.\n\nIn the upper-middle section, the greeting {argument name=\"text\" default=\"merry christmas\"} is written in an elegant, thin, and flowing gold cursive script.\n\nThe overall aesthetic is flat, graphic, and modern with a cozy, hand-painted touch. The design is clean,精美, and high-resolution.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592759449_t0ckez_1765541905292-qw9tlj-AaL9lVPbgKrOAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 111,
+      "title": "Symmetrical Folk Art Reindeer",
+      "description": "A charming, symmetrical folk art illustration painted in gouache. It features two facing reindeer surrounded by a dense pattern of winter botanicals and poinsettias in a classic holiday palette.",
+      "content": "An exquisite, printable Christmas card design in a whimsical folk art style, gouache illustration.\n\nThe design is perfectly symmetrical on a clean white background. In the center, two charming light-beige reindeer with grey antlers face each other nose-to-nose. They each wear a festive red harness or sweater with white striped patterns.\n\nThe reindeer are surrounded by a dense and beautiful pattern of winter botanicals, including dark green holly with red berries, a stylized fir tree, olive green leaves, and mint green foliage. Stylized red poinsettia flowers are scattered throughout.\n\nThe entire aesthetic is flat 2D, with a hand-painted texture and a classic festive color palette of red, green, and white.\n\nHigh detail, charming and heartwarming, aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592758220_5v1sll_1765541890345-25d3zq-wEZ64VkVPk1hgAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 112,
+      "title": "Navy Blue and Silver Glitter Snowflakes",
+      "description": "An elegant, festive card design featuring embossed silver and gold glitter snowflakes on a deep navy blue background. Customizable embossed gold text adds a finishing touch.",
+      "content": "An elegant and festive holiday greeting card design, presented in a flat, frontal view. The background is a rich, deep navy blue with subtle, darker blue tonal swirls creating a sense of depth. A beautiful arrangement of intricate snowflakes in shimmering silver glitter and polished metallic gold are scattered across the design. These elements have a raised, embossed foil texture that makes them pop.\n\nA very large, highly detailed silver glitter snowflake serves as the central focal point, slightly above the middle. Other gold and silver snowflakes of varying sizes and designs, along with graceful swirls and delicate dotted trails, are artfully scattered, creating a magical sense of movement.\n\nAt the bottom right, the greeting '{argument name=\"text\" default=\"Happy Holidays\"}' is rendered in a classy, embossed gold font.\n\nThis is a high-resolution, printable graphic illustration with sharp, clean details and studio lighting that accentuates the metallic and glitter textures. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592757412_nqxn40_1765541862034-ytlw4s-WweLXMxIJlihAxYCm8l5JV0NEwVgLTlPhewURAF2BGQAUCltidtgA539HMoK6pAUXTkph2Rbf3AwCuhBALdFI4LmPOHgXDSC7d2UcJUqt0YE5M55BAbnHlq7sSDzlhiXRCQF75UVcAGCp5zassSVhsiyZkGHI5yF4qCYJVJWWWeLorPsMlSK0ILVhEBgCUFbDXxQoOhldwqww0fsutVA5"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 113,
+      "title": "Classic Painterly Santa and Woodland Animals",
+      "description": "A classic, detailed painting of a jolly Santa Claus reading a scroll in a snowy forest. He is surrounded by a decorated tree and curious woodland animals under a lantern's glow.",
+      "content": "An exquisite, highly detailed printable Christmas illustration in a classic painterly style. A jolly Santa Claus, dressed in his traditional red suit with white fur trim, stands in a snowy forest clearing at night, smiling as he reads from a long parchment scroll.\n\nTo his left is a beautifully decorated Christmas tree, its branches laden with snow, colorful baubles, and lights, topped with a glowing star that illuminates the scene. Several wrapped presents in red, blue, and gold paper are nestled at the base of the tree. Behind Santa, his large green toy sack rests in the snow.\n\nIn the foreground, a vintage lantern casts a warm, golden glow on the snow, where a charming group of woodland creatures have gathered. Two curious squirrels, two fluffy rabbits, and several small birds watch Santa with wonder.\n\nGentle snowflakes fall through the air, blanketing the entire scene. In the distant background, a quaint village with a church steeple is visible among the snow-covered pine trees, all under a deep blue winter night sky. The artwork has a magical, heartwarming atmosphere, with a beautiful interplay of warm and cool light and rich textures.\n\n--ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592752784_0alktq_aac10249abe038ff4093fde439233991b506c06619464e4eeb8f8251728da3fd"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 114,
+      "title": "Modern Gold Hoop Wreath with Foil Text",
+      "description": "A sophisticated and elegant card design featuring a modern gold ring wreath decorated with papercraft poinsettias and glitter. It includes customizable gold foil text for a high-end look.",
+      "content": "An exquisite and elegant printable Christmas card design, front view, flat lay. The design is on a clean, minimalist white card background.\n\nThe main feature is a modern wreath created from a thin, polished gold ring. A lush, dimensional papercraft arrangement of festive foliage is attached to the left curve of the ring. This layered composition features three prominent poinsettias made of sparkling red glitter paper with tiny gold centers, layered over a mix of dark green paper leaves, shiny gold foil leaves, and delicate white paper sprigs. A simple loop of cream-colored grosgrain ribbon is attached to the top of the gold ring.\n\nInside the right side of the ring, the text {argument name=\"text\" default=\"Merry Christmas\"} is written in elegant gold foil. The word 'Merry' is in a clean uppercase font, and 'Christmas' is in a flowing script.\n\nThe overall style is sophisticated, high-end, and celebrates texture with glitter, foil, and layered paper. High resolution, printable quality, 1:1.4 aspect ratio.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592751841_gnswqi_1765541829400-pc0tdi-l4WVBE6Kavjs69sD6aw4bVvYyT1cXEnBcvrk0Ne8hPJEjZ2Ag2pe6rsYWYmuhMkQ4hKAmhPcoc3uHDXAvsdRTN7UqmPhXs_PWCnNsCI5SHLKoHzHxtJcQdZ0KLDAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 115,
+      "title": "Paper Quilling Christmas Bells",
+      "description": "A highly detailed printable card design that simulates the look of intricate paper quilling art. It features two golden Christmas bells, a red bow, and holly, along with customizable text.",
+      "content": "A beautiful, high-quality, printable Christmas greeting card, presented in a flat lay, top-down view. The card showcases an intricate and elegant paper quilling design. The centerpiece features two large, vibrant golden-yellow Christmas bells, meticulously crafted from quilled paper strips, with rich brown rims and delicate coiled clappers.\n\nTied at the top of the bells is a large, luxurious bow made from deep red paper, its edges sparkling with fine gold glitter. Spilling out from behind the bow are festive arrangements of deep green holly leaves with defined outlines and clusters of bright red berries, all created with the same detailed paper quilling technique, giving the art a subtle 3D relief effect.\n\nThe entire artwork is mounted on a clean, textured white cardstock background, framed by a simple, crisp red border. The scene is illuminated with bright, even, and soft lighting. In the top right corner, display the text: {argument name=\"Text\" default=\"Christmas Bells\"}.\n\nThe overall aesthetic is handmade, festive, and exceptionally detailed. Aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592751020_mkomxa_1765541816212-jr5ymk-D1EIeH60WGTmAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 116,
+      "title": "Vintage Watercolor Winter Village Church",
+      "description": "A nostalgic vintage-style watercolor painting of a serene winter night. It depicts a snowy path leading to a glowing village church at twilight, complete with customizable silver script text in the border.",
+      "content": "A beautiful, printable Christmas card design in a classic vintage watercolor style, capturing a serene and peaceful winter night. The scene is viewed from a path, framed on the left by large, heavy, snow-laden evergreen branches.\n\nIn the mid-ground, a snow-covered path leads past a rustic wooden gate towards a quaint village nestled amongst bare winter trees. A charming stone church with a tall steeple is the focal point, with warm, inviting light glowing from its windows. The horizon behind the church has a soft orange and red glow, suggesting sunset or the warmth of the village.\n\nThe sky is a deep twilight blue, filled with gently falling snow that sparkles throughout the scene. The overall mood is quiet, cozy, and nostalgic.\n\nThe illustration is presented with a wide white border at the bottom. On this white space, the text {argument name=\"text\" default=\"Merry Christmas\"} is written in an elegant, silver, flowing cursive script.\n\nFine art illustration, detailed, high resolution, soft textures. --ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592747639_5g69nm_1765541801496-b6929l-D3J9b1ucVaNEAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 117,
+      "title": "Peaceful Woodland Animals at Night",
+      "description": "A detailed painterly illustration of a peaceful woodland scene at night. It features the Star of Bethlehem shining over a snow-covered tree surrounded by friendly animals like a fawn, rabbit, and cardinals.",
+      "content": "An exquisite, printable Christmas greeting card illustration of a peaceful woodland scene at night, in a classic, detailed painterly style.\n\nThe scene features a snow-covered landscape under a deep blue starry sky, with a large, brilliant eight-pointed star, the Star of Bethlehem, shining brightly in the upper left. A central, snow-laden evergreen tree is adorned with a variety of friendly animals.\n\nA gentle, spotted fawn stands on the left. Gathered at the base of the tree are a fluffy brown rabbit, a curious raccoon, and two red cardinals on the snowy ground. Perched in the tree are a white dove at the very top, another red cardinal, a black-capped chickadee, and a vibrant bluebird on the lower branches. A second chickadee is captured in mid-flight, approaching the tree.\n\nThe background shows a distant forest of snow-dusted pines. The lighting is soft and magical, casting gentle blue shadows on the pristine snow. The overall mood is serene, harmonious, and heartwarming.\n\n--ar 1:1.4",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592746479_ix6aj0_5272d0b217aa15694e6fba5d09f65c91f46f335bf5f6d48a7a611c2837f96d99"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 118,
+      "title": "Elegant Watercolor Potted Christmas Tree",
+      "description": "A charming and elegant watercolor illustration of a decorated fir tree sitting in a golden pot. The scene features soft snow, gentle brushstrokes, and a warm, textured off-white background.",
+      "content": "A charming and elegant watercolor illustration of a Christmas tree, perfect for a printable greeting card. The scene features a lush, green fir tree placed centrally in a simple golden pot.\n\nThe tree is beautifully decorated with a delicate red ribbon that spirals gracefully around its branches. Adorning the tree are small, shiny red baubles, striped gold ornaments, and tiny white stars. A prominent, festive red bow sits atop the tree as a topper, with a matching bow tied near the base.\n\nThe tree rests on a softly rendered patch of snow. The background is a warm, textured off-white paper, with soft, out-of-focus white spots suggesting a gentle snowfall, creating a cozy and serene atmosphere.\n\nThe overall style is soft and hand-painted, with gentle brushstrokes and a warm, muted color palette. Exquisite detail, high resolution, printable quality, aspect ratio 1:1.4.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592744897_54g5ll_1765541911655-adski4-KgAAAAASUVORK5CYII_"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 119,
+      "title": "Minimalist Watercolor Snowflake Card",
+      "description": "A minimalist and artistic card design focusing on a single, highly detailed blue watercolor snowflake on off-white paper. It includes customizable cursive text at the bottom.",
+      "content": "An exquisite and printable Christmas greeting card design, presented in a flat, front-on view, aspect ratio 1:1.4.\n\nThe artwork features a single, large, and highly detailed watercolor snowflake as the central focus. It is painted with delicate washes of indigo, royal blue, and lighter cerulean blue, showcasing the beautiful transparency and bleeding effects of watercolor paint on paper.\n\nThe background is a clean, slightly textured off-white paper. A sprinkle of tiny, soft blue dots surrounds the central snowflake, creating the gentle illusion of falling snow.\n\nAt the bottom, the elegant cursive text reads: {argument name=\"text\" default=\"Merry Christmas\"}.\n\nThe overall style is minimalist, artistic, and serene, with a handmade feel, perfect for a high-quality print.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592742460_k7m2z7_1765541774793-1kpg94-wGp_CAJ62w8QQAAAABJRU5ErkJggg__"
+      ],
+      "mediaThumbnails": []
+    },
+    {
+      "id": 120,
+      "title": "Minimalist Hanging Ornaments Graphic",
+      "description": "A clean, modern flat graphic design featuring five distinct Christmas ornaments hanging from strings against a solid white background, with customizable elegant script text below.",
+      "content": "An exquisite, printable Christmas card design with a modern, minimalist flat graphic style, aspect ratio 1:1.4.\nThe design is set against a clean, solid white background.\n\nAcross the top, five Christmas ornaments hang from thin black strings at varying heights.\nFrom left to right, the ornaments are: a large green bauble with sparkling silver glitter snowflakes; a small, plain red bauble; a small bauble completely covered in shimmering silver glitter; a large red bauble featuring a central white snowflake cutout; and a medium-sized, plain green bauble.\n\nCentered below the ornaments, the text {argument name=\"Greeting\" default=\"Merry Christmas\"} is elegantly written in a flowing, black script font.",
+      "translatedContent": "",
+      "language": "en",
+      "featured": false,
+      "sourceLink": "",
+      "sourcePublishedAt": "2025-12-12T16:00:00.000Z",
+      "author": {
+        "name": "Jared Liu",
+        "link": "https://x.com/jaredliu_bravo"
+      },
+      "media": [
+        "https://cms-assets.youmind.com/media/1765592740507_9ttsu6_1765541770870-bob6l1-yAAAAAElFTkSuQmCC"
+      ],
+      "mediaThumbnails": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+name = "youmind-hub-data-gate"
+main = "index.mjs"
+compatibility_date = "2026-01-01"
+
+# Serves dist/data/<slug>.json from R2 with CORS so the site (Cloudflare canonical
+# and the GitHub Pages mirror) can fetch large prompt data cross-origin.
+# Deploy:  npx wrangler deploy --config workers/data-gate/wrangler.toml
+# Secrets/env needed at deploy: CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID
+
+[[r2_buckets]]
+binding = "DATA"
+bucket_name = "youmind-hub-data"

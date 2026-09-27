@@ -12,6 +12,7 @@ on:
       - "scripts/**"
       - "site/**"
       - "sources/**"
+      - "workers/**"
       - "registry.json"
       - "package.json"
       - ".github/workflows/sync-and-deploy.yml"
@@ -79,6 +80,8 @@ jobs:
           YOUMIND_CACHE_DIR: ${{ github.workspace }}/.cache/${{ matrix.source }}
         run: node scripts/fetch-prompts.mjs
 
+      # Soft-fail: a missing/unconfigured table or a transient Feishu error must
+      # not turn the whole run red — the site still builds from the snapshot.
       - name: Sync to Feishu (Open API)
         continue-on-error: true
         env:
@@ -86,11 +89,9 @@ jobs:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
         run: |
-          if [ -n "$FEISHU_APP_ID" ] && [ -f "sources/${{ matrix.source }}/.local.json" ]; then
-            node scripts/sync-feishu-api.mjs || echo "Feishu sync failed for ${{ matrix.source }} (continuing)"
-          else
-            echo "Skipping Feishu sync for ${{ matrix.source }} (no app creds or no table)."
-          fi
+          if [ -z "$FEISHU_APP_ID" ]; then echo "No FEISHU_APP_ID; skipping sync for ${{ matrix.source }}."; exit 0; fi
+          if [ ! -f "sources/${{ matrix.source }}/.local.json" ]; then echo "No Feishu table for ${{ matrix.source }}; skipping sync."; exit 0; fi
+          node scripts/sync-feishu-api.mjs || echo "Feishu sync failed for ${{ matrix.source }} (continuing)"
 
       - name: Build site data
         env:
@@ -126,24 +127,55 @@ jobs:
           node-version: "22"
       - run: npm install --no-audit --no-fund
 
+      # Download to a staging dir then flatten, so we are robust to whether
+      # upload-artifact@v4 stored the file as "<slug>.json" or "dist/data/<slug>.json".
       - name: Download all site data
         uses: actions/download-artifact@v4
         with:
           pattern: site-data-*
           merge-multiple: true
-          path: .
+          path: _artifacts
 
+      - name: Flatten artifacts into dist/data
+        run: |
+          mkdir -p dist/data
+          find _artifacts -type f -name '*.json' -exec mv -t dist/data {} +
+          rm -rf _artifacts
+          echo "data files:"; ls -1 dist/data
+
+      # assemble-site runs the quality gate (fails if any enabled source has 0 prompts).
       - name: Assemble site
         run: node scripts/assemble-site.mjs
 
-      # NOTE: if any dist/data/<slug>.json exceeds the Pages 25 MiB file limit,
-      # serve it from R2 via a Worker (as the old Seedance project did) and keep
-      # only static assets on Pages.
+      - name: Upload data to R2
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          shopt -s nullglob
+          for f in dist/data/*.json; do
+            npx wrangler r2 object put "youmind-hub-data/data/$(basename "$f")" --remote --file "$f" --content-type "application/json"
+          done
+
+      - name: Deploy data-gate Worker
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch') }}
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler deploy --config workers/data-gate/wrangler.toml
+
+      # Data is served from R2 via the Worker; keep only shell + registry + pages on Pages.
+      - name: Strip data from Pages artifact
+        run: rm -rf dist/data
+
       - name: Deploy Cloudflare Pages
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
         continue-on-error: true
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: npx wrangler pages deploy dist --project-name youmind-hub --branch main --commit-dirty=true
 
       - name: Setup Pages

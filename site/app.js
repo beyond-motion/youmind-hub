@@ -1,13 +1,23 @@
 // youmind-hub shell router.
-// Phase 0: functional landing + per-slug gallery (search + detail modal).
-// Phase 3 will port the rich UX (filters, builder, insights, related) from the
-// Seedance app.js, parameterized by registry + config.branding.
+// - Derives the site base from THIS module's URL, so it works both at a domain
+//   root (Cloudflare, canonical) and under a /<repo>/ subpath (GitHub Pages mirror).
+// - Large prompt data is fetched from site.dataOrigin (an R2 Worker) with CORS;
+//   falls back to same-origin when dataOrigin is empty (local dev).
+// - Phase 3 will port the rich UX (filters/builder/insights) from Seedance app.js.
 
-const slug = (() => {
-  const match = location.pathname.match(/^\/([a-z0-9._-]+)\/?$/i);
-  return match ? match[1] : "";
-})();
+const BASE = new URL(".", import.meta.url).href; // directory containing app.js = site root
+const basePath = new URL(BASE).pathname;
 
+function currentSlug() {
+  let rest = location.pathname;
+  if (basePath !== "/" && rest.startsWith(basePath)) {
+    rest = rest.slice(basePath.length);
+  }
+  const segment = rest.split("/").filter(Boolean)[0] || "";
+  return segment === "index.html" ? "" : segment;
+}
+
+const slug = currentSlug();
 const $ = (selector) => document.querySelector(selector);
 
 async function loadJson(url) {
@@ -27,14 +37,15 @@ function el(tag, className, html) {
 
 function buildNav(registry) {
   const nav = $("#nav-links");
+  if (!nav) return;
   nav.innerHTML = "";
   const home = el("a", "", "首页");
-  home.href = "/";
+  home.href = BASE;
   nav.appendChild(home);
   for (const source of registry.sources) {
     if (source.enabled === false) continue;
     const link = el("a", "", source.title);
-    link.href = `/${source.slug}/`;
+    link.href = `${BASE}${source.slug}/`;
     nav.appendChild(link);
   }
 }
@@ -51,7 +62,7 @@ function renderLanding(registry) {
   for (const source of registry.sources) {
     if (source.enabled === false) continue;
     const card = el("a", "lib-card");
-    card.href = `/${source.slug}/`;
+    card.href = `${BASE}${source.slug}/`;
     card.appendChild(el("h2", null, source.title));
     card.appendChild(el("p", null, `<strong>${source.count}</strong> 条 · ${source.kind}`));
     card.appendChild(el("small", null, source.lastSync ? `更新于 ${new Date(source.lastSync).toLocaleString()}` : ""));
@@ -147,10 +158,12 @@ function showModal(prompt) {
 
 (async () => {
   try {
-    const registry = await loadJson("/registry.json");
+    const registry = await loadJson(`${BASE}registry.json`);
     if (slug && registry.sources.some((source) => source.slug === slug)) {
-      const data = await loadJson(`/data/${slug}.json`);
       const meta = registry.sources.find((source) => source.slug === slug);
+      const dataOrigin = (registry.site?.dataOrigin || "").replace(/\/+$/, "");
+      const dataBase = dataOrigin || BASE;
+      const data = await loadJson(`${dataBase}/data/${slug}.json`);
       renderGallery(registry, meta, data);
     } else {
       renderLanding(registry);
