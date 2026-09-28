@@ -1,6 +1,7 @@
 import path from "path";
 import { ACTIVE_SOURCE, DATA_DIR, resolveSyncTarget, writeJsonSync } from "../packages/core/lib/config.mjs";
 import { loadOrFetchPromptPayload } from "../packages/core/lib/prompt-source.mjs";
+import { fetchGithubJsonSnapshot } from "../packages/core/lib/github-json-source.mjs";
 
 function readNumberEnv(name) {
   const value = Number(process.env[name]);
@@ -10,6 +11,20 @@ function readNumberEnv(name) {
 async function main() {
   if (ACTIVE_SOURCE && ACTIVE_SOURCE.kind === "static") {
     console.log(`Source=${ACTIVE_SOURCE.slug} is static (no API); skipping fetch.`);
+    return;
+  }
+
+  if (ACTIVE_SOURCE && ACTIVE_SOURCE.kind === "github-json") {
+    const { locale } = resolveSyncTarget({ requireBase: false });
+    const payload = await fetchGithubJsonSnapshot(ACTIVE_SOURCE, {
+      locale,
+      onProgress({ fetched, total }) {
+        console.log(`  normalized ${fetched}/${total}`);
+      }
+    });
+    const outputPath = path.join(DATA_DIR, `prompts.${locale}.json`);
+    writeJsonSync(outputPath, payload);
+    console.log(`Saved ${payload.prompts.length} prompts to ${outputPath}`);
     return;
   }
 

@@ -1,0 +1,19 @@
+{
+  "slug": "opus-5-5-skillry",
+  "title": "Opus 5.5 Videos",
+  "enabled": true,
+  "order": 13,
+  "kind": "github-json",
+  "category": "code",
+  "api": {
+    "url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/data/videos.json",
+    "locale": "en",
+    "model": "opus-5-5-skillry"
+  },
+  "feishu": { "baseToken": "", "tableId": "" },
+  "branding": {
+    "eyebrow": "Opus 5.5 Videos · Skillry",
+    "headline": "Claude Opus 5.5 病毒视频提示词合集(Skillry,每日同步 yihui-dev/awesome-opus5-5-videos)",
+    "sourceRepo": "yihui-dev/awesome-opus5-5-videos"
+  }
+}

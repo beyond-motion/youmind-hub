@@ -224,7 +224,7 @@ export function promptToSitePrompt(prompt, { locale, gallerySlug = "", model = "
     sourcePublishedAt: prompt.sourcePublishedAt || "",
     authorName: prompt.author?.name || "",
     authorLink: prompt.author?.link || "",
-    detailUrl: `https://youmind.com/${locale}/${gallerySlug || `${model}-prompts`}?id=${prompt.id}`,
+    detailUrl: prompt.detailUrl || `https://youmind.com/${locale}/${gallerySlug || `${model}-prompts`}?id=${prompt.id}`,
     ...videoFields,
     thumbnailUrl: primaryVideo?.thumbnail || "",
     referenceImages: splitUrlList(prompt.referenceImages || prompt.sourceReferenceImages || [])
