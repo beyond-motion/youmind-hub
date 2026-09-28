@@ -68,6 +68,7 @@ function main() {
     const html = galleryTemplate
       .replaceAll("__SLUG__", slug)
       .replaceAll("__DATA_ORIGIN__", dataOrigin)
+      .replaceAll("__LIST_MODE__", config.listMode === false ? "false" : "true")
       .replaceAll("__CANONICAL__", canonical)
       .replaceAll("__BUILD_ID__", buildId)
       .replaceAll("__TITLE__", title)

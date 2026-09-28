@@ -1850,17 +1850,7 @@ function bindEvents() {
   });
 }
 
-async function loadData() {
-  const ym = window.__YM__ || {};
-  const slug = ym.slug;
-  const dataBase = (ym.dataOrigin || "").replace(/\/+$/, "");
-  const response = await fetch(`${dataBase}/data/${slug}.json`);
-
-  if (!response.ok) {
-    throw new Error(`Failed to load prompt data: ${response.status}`);
-  }
-
-  const payload = await response.json();
+function ingestPayload(payload) {
   const prompts = payload.prompts.slice().sort((left, right) => {
     if (left.featured !== right.featured) {
       return left.featured ? -1 : 1;
@@ -1880,6 +1870,74 @@ async function loadData() {
   elements.source.textContent = payload.dataSourceLabel || payload.dataSource || "Unknown";
 
   applyFilters();
+}
+
+async function fetchJsonOrThrow(url) {
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to load prompt data: ${response.status}`);
+  }
+  return response.json();
+}
+
+async function loadData() {
+  const ym = window.__YM__ || {};
+  const slug = ym.slug;
+  const dataBase = (ym.dataOrigin || "").replace(/\/+$/, "");
+  const fullUrl = `${dataBase}/data/${slug}.json`;
+  const listUrl = `${dataBase}/data/${slug}.list.json`;
+  const listMode = ym.listMode !== false;
+
+  if (!listMode) {
+    ingestPayload(await fetchJsonOrThrow(fullUrl));
+    return;
+  }
+
+  // 1) Fast first paint from the light list (falls back to full if missing).
+  let painted = false;
+  try {
+    const listResponse = await fetch(listUrl);
+    if (listResponse.ok) {
+      ingestPayload(await listResponse.json());
+      painted = true;
+    }
+  } catch (error) {
+    // fall through to the full payload
+  }
+  if (!painted) {
+    ingestPayload(await fetchJsonOrThrow(fullUrl));
+    return;
+  }
+
+  // 2) Background-load the full dataset and merge its heavy fields (prompt text,
+  //    video, references) into the already-rendered list prompts IN PLACE — no
+  //    visual re-render — then re-apply the current query so full-text search
+  //    takes effect and detail modals have the complete data.
+  try {
+    const fullResponse = await fetch(fullUrl);
+    if (fullResponse.ok) {
+      const full = await fullResponse.json();
+      if (full && Array.isArray(full.prompts) && full.prompts.length) {
+        const byId = new Map(full.prompts.map((p) => [String(p.id), p]));
+        const heavyKeys = ["prompt", "translatedPrompt", "videoUrl", "originalVideoUrl", "mirrorVideoUrl", "playbackUrl", "videoEmbedUrl", "referenceImages", "mirrorStatus", "mirrorSyncedAt"];
+        for (const listPrompt of state.prompts) {
+          const fullPrompt = byId.get(String(listPrompt.id));
+          if (fullPrompt) {
+            for (const key of heavyKeys) {
+              if (key in fullPrompt) {
+                listPrompt[key] = fullPrompt[key];
+              }
+            }
+          }
+        }
+        elements.sync.textContent = formatDate(full.generatedAt);
+        elements.source.textContent = full.dataSourceLabel || full.dataSource || "Unknown";
+        applyFilters();
+      }
+    }
+  } catch (error) {
+    // keep the list rendering
+  }
 }
 
 bindEvents();
