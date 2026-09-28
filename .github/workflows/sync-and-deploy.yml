@@ -105,7 +105,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: site-data-${{ matrix.source }}
-          path: dist/data/${{ matrix.source }}.json
+          path: |
+            dist/data/${{ matrix.source }}.json
+            dist/data/${{ matrix.source }}.list.json
           if-no-files-found: error
 
       - name: Save prompt cache
