@@ -23,6 +23,7 @@ YouMind Prompt Archive — NOTICE
   对应 YouMind-OpenLab 仓库与 youmind.com 画廊
 - GPT 6 Astra / Opus 5.5 — youmind.com/zh-CN/gpt-6-astra-prompts、/opus-5-5-prompts(Claude Opus 5.5)
 - Opus 5.5 Videos(Skillry 合集) — github.com/yihui-dev/awesome-opus5-5-videos;每条提示词的原始作者见其 X 原帖(来源链接),在线 remake 见 skillry.dev(详情链接)
+- OpusCar 影片风格库 — github.com/lemomo-ai/lemo-opuscar(**MIT © LemoLab**);39 种影片风格的完整风格提示词见各 styles/<slug>/STYLE.md(来源链接),样例影片见各 styles/<slug>/demo
 
 ## 第三方合集收录方式(无开放许可的来源)
 

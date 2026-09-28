@@ -1,0 +1,22 @@
+{
+  "slug": "lemo-opuscar",
+  "title": "OpusCar 影片风格库",
+  "enabled": true,
+  "order": 14,
+  "kind": "github-json",
+  "category": "code",
+  "api": {
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/main/styleboard/catalog.json",
+    "itemFile": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/main/styles/{slug}/STYLE.md",
+    "repoBase": "https://github.com/lemomo-ai/lemo-opuscar",
+    "author": "LemoLab",
+    "locale": "zh-CN",
+    "model": "lemo-opuscar"
+  },
+  "feishu": { "baseToken": "", "tableId": "" },
+  "branding": {
+    "eyebrow": "OpusCar · 39 Film Styles",
+    "headline": "Claude Opus 5.5 纯代码影片风格库:39 种可复用风格提示词(MIT © LemoLab)",
+    "sourceRepo": "lemomo-ai/lemo-opuscar"
+  }
+}
